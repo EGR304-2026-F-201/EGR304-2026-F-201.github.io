@@ -19,4 +19,4 @@ Detailed team goals and planning can be reviewed in the [Appendix: Team Organiza
 
 The team developed the following mission based on the intended users and purpose of our product:
 
- > Our product's mission is to create a useful and reliable embedded system protoype that solves a real-world problem. We want it to be practical, easy to use, and something that shows what we learned in the course.
+ > Our product's mission is to create a useful and reliable embedded system protoype that solves a real-world problem. We want it to be practical, easy to use, and something that shows what we learned in the course. We hope that this project is competent enough to put on a resume.
