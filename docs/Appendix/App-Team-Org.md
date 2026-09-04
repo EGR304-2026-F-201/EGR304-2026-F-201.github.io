@@ -44,8 +44,8 @@ _**Appendix Table 2**: Weekly Schedule_
 | 10:00 AM | C| C | - | C| - | C | C |
 | 11:00 AM | C| C| - | C | - | C| C|
 | 12:00 PM | C | C | - | C | C | C | C|
-| 1:00 PM | C,N | N | - | C,N | C,N | C,N | C,N |
-| 2:00 PM | N | N | - | - | C,N | C,N| C,N |
+| 1:00 PM | C,N | N | - | C,N | C | C,N | C,N |
+| 2:00 PM | N | N | - | N | C | C,N| C,N |
 | 3:00 PM | N | - | - | - | C | C,N | N |
 | 4:00 PM | N | - | C | - | - | N | N |
 | 5:00 PM | N | - | C | - | - | N | N |
