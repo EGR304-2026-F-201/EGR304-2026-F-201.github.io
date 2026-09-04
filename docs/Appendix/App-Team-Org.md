@@ -15,7 +15,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Nikita Bangiyev |  Phone number | Discord | Email |
+|Nikita Bangiyev | Phone | Discord | Email |
 |Member 2 |  ? | ? | ? |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
@@ -40,7 +40,7 @@ _**Appendix Table 2**: Weekly Schedule_
 | 10:00 AM | - | - | - | - | - | - | - |
 | 11:00 AM | - | - | - | - | - | - | - |
 | 12:00 PM | - | - | - | - | - | - | - |
-| 1:00 PM | - |  | - | - | - | - | - |
+| 1:00 PM | - | - | - | - | - | - | - |
 | 2:00 PM | - | - | - | - | - | - | - |
 | 3:00 PM | - | - | - | - | - | - | - |
 | 4:00 PM | - | - | - | - | - | - | - |
@@ -85,5 +85,9 @@ Need to add content!!
 
 ## Signatures
 
-Need to add content!!
+Team: 201
+
+Nikita Bangiyev
+
+09/04/2026
 
