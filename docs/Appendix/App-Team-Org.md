@@ -6,8 +6,12 @@ tags:
 ---
 
 ## Team Goals
+1. Design and develop a functional and reliable embedded-systems product that meets the project's requirements.
+2. Improve our technical skills in programming, electronics, testing, troubleshooting, and engineering design.
+3. Maintain consistent communication and ensure that all team members are informed and involved throughout the project.
+4. Complete assignments and project milestones on time while maintaining a high standard of quality.
+5. Create a final product that demonstrates our engineering abilities and be included in our professional portfolios.
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
 
 ## Communication Channels
 
@@ -17,8 +21,8 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Nikita Bangiyev | Phone | Discord | Email |
 |Troy Reynolds|  Phone | Discord | Email |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+|Clay Belsher |  Phone | Discord | Email |
+|Cole Trask |  Phone | Discord | Email |
 
 ### Main Method for Group Communication
 
@@ -36,17 +40,17 @@ _**Appendix Table 2**: Weekly Schedule_
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | - | - | - | - | - |
-| 9:00 AM | - | - | - | - | - | - | - |
-| 10:00 AM | - | - | - | - | - | - | - |
-| 11:00 AM | - | - | - | - | - | - | - |
-| 12:00 PM | - | - | - | - | - | - | - |
-| 1:00 PM | - | - | - | - | - | - | - |
-| 2:00 PM | - | - | - | - | - | - | - |
-| 3:00 PM | - | - | - | - | - | - | - |
-| 4:00 PM | - | - | - | - | - | - | - |
-| 5:00 PM | - | - | - | - | - | - | - |
-| 6:00 PM | - | - | - | - | - | - | - |
-| 7:00 PM | - | - | - | - | - | - | - |
+| 9:00 AM | C | - | - | C | - | - | - |
+| 10:00 AM | C| C | - | C| - | C | C |
+| 11:00 AM | C| C| - | C | - | C| C|
+| 12:00 PM | C | C | - | C | C | C | C|
+| 1:00 PM | C | - | - | C | C | C | C |
+| 2:00 PM | - | - | - | - | C | C | C |
+| 3:00 PM | - | - | - | - | C | C | - |
+| 4:00 PM | - | - | C | - | - | - | - |
+| 5:00 PM | - | - | C | - | - | - | - |
+| 6:00 PM | - | - | C | - | - | - | - |
+| 7:00 PM | - | - | C | - | - | - | - |
 | 8:00 PM | - | - | - | - | - | - | - |
 | 9:00 PM | - | - | - | - | - | - | - |
 
@@ -56,10 +60,8 @@ _**Table Legend for Appendix Table 2**_
 | ----- | :------: |
 | Nikita | N |
 | Troy | T |
+| Clay | C |
 | INSERT NAME | - |
-| INSERT NAME | - |
-
-
 ## Meeting Coordination
 
 1. The team will use a shared Discord to keep track of meetings.
@@ -94,4 +96,10 @@ Nikita Bangiyev
 Troy Reynolds
 
 9/04/2026
+
+Clay Belsher
+
+9/04/2026
+
+
 
