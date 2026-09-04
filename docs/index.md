@@ -29,4 +29,4 @@ Kevin Nichols<br>
 | Nikita Bangiyev        | [https://github.com/NikitaBang](https://nikitabang.github.io/NikitaBang_EGR304_F26.github.io/) |
 | Troy Reynolds          | https://github.com/TreyRrey480  |
 | Clay Belsher           | [https://github.com/ccbelshe](https://github.com/ccbelshe/ccbelshe_EGR304_F26.github.io) |
-| Name #4                | link |
+| Cole Trask                | [https://github.com/CT-Cruiser] (https://ct-cruiser.github.io/CT-Cruiser_EGR304_F26.github.io/) |
