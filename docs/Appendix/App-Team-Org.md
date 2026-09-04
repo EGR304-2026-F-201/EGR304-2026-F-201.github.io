@@ -16,7 +16,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Nikita Bangiyev | Phone | Discord | Email |
-|Member 2 |  ? | ? | ? |
+|Troy Reynolds|  Phone | Discord | Email |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
 
@@ -55,7 +55,7 @@ _**Table Legend for Appendix Table 2**_
 | Name | Abbreviation |
 | ----- | :------: |
 | Nikita | N |
-| INSERT NAME | - |
+| Troy | T |
 | INSERT NAME | - |
 | INSERT NAME | - |
 
@@ -90,4 +90,8 @@ Team: 201
 Nikita Bangiyev
 
 09/04/2026
+
+Troy Reynolds
+
+9/04/2026
 
