@@ -5,9 +5,9 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">GitHub Team Demo<br>
+<font size="8">Fall 2026 Project Page<br>
 <font size="5">Team 201<br>
-**Submission: 9, 3, 2026**<br>
+**Submission: 9 - 4 - 2026**<br>
 Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
