@@ -44,11 +44,11 @@ _**Appendix Table 2**: Weekly Schedule_
 | 10:00 AM | C| C | - | C| - | C | C |
 | 11:00 AM | C| C| - | C | - | C| C|
 | 12:00 PM | C | C | - | C | C | C | C|
-| 1:00 PM | C | - | - | C | C | C | C |
-| 2:00 PM | - | - | - | - | C | C | C |
-| 3:00 PM | - | - | - | - | C | C | - |
-| 4:00 PM | - | - | C | - | - | - | - |
-| 5:00 PM | - | - | C | - | - | - | - |
+| 1:00 PM | C,N | N | - | C,N | C,N | C,N | C,N |
+| 2:00 PM | N | N | - | - | C,N | C,N| C,N |
+| 3:00 PM | N | - | - | - | C | C,N | N |
+| 4:00 PM | N | - | C | - | - | N | N |
+| 5:00 PM | N | - | C | - | - | N | N |
 | 6:00 PM | - | - | C | - | - | - | - |
 | 7:00 PM | - | - | C | - | - | - | - |
 | 8:00 PM | - | - | - | - | - | - | - |
@@ -61,7 +61,7 @@ _**Table Legend for Appendix Table 2**_
 | Nikita | N |
 | Troy | T |
 | Clay | C |
-| INSERT NAME | - |
+| Cole | CT |
 ## Meeting Coordination
 
 1. The team will use a shared Discord to keep track of meetings.
@@ -100,6 +100,10 @@ Troy Reynolds
 Clay Belsher
 
 9/04/2026
+
+Cole Trask
+
+09/04/2026
 
 
 
