@@ -22,12 +22,12 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided in the “Team Member Communication Modes” table, the group’s primary method of communication will be Messages.
  
 ## Communication Procedures
 
-1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+1. Our team will primarily communicate through messages and Discord for regular updates and discussions. Email will be used for formal information and sharing documents, while group text will be used for urgent messages.
+2. The assignment leader will be responsible for contacting the instructor through email. The instructor’s response will then be shared with the rest of the team through Discord and discussed at the next meeting if necessary.
 
 ## Meeting Schedule
 
@@ -62,10 +62,10 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+1. The team will use a shared Discord to keep track of meetings.
+1. Any changes or additional meeting times will be discussed in Discord once the team agrees.
+1. Face-to-face meetings are preferred, but virtual meetings may be used when necessary.
+1. A short agenda will be shared before each meeting, and meeting notes and assigned tasks will be posted in Discord afterward. Members should notify the team as early as possible if they cannot attend.
 
 ## Roles & Responsibilities
 
