@@ -74,9 +74,9 @@ _**Table Legend for Appendix Table 2**_
 
 ## Roles & Responsibilities
 
-_**Appendix Table 3**: Project Roles and Duties_
 
-***Appendix Table 3**: Initial Project Roles and Duties*
+
+_**Appendix Table 3**: Initial Project Roles and Duties_
 
 | **Role**          | **Initial Team Member** | **Duties**                                                                                                                         |
 | :---------------- | :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
@@ -92,9 +92,7 @@ _**Appendix Table 3**: Project Roles and Duties_
 3. We will have open communication and make it known to group members if one can't meet the expectations
 4. If we need to adjust the roles and responsibilities, members will take initiative to adjust their involvement if needed. 
 5. Milestones will be tracked via a checklist in the main discord. 
-6. Technical responsibilies will be assigned based on each member's preferred technical focus.  
-
-## Team Coordination and Accountability
+6. Technical responsibilities will be assigned based on each member's preferred technical focus.  
 
 ## Team Coordination & Accountability
 
