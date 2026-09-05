@@ -26,7 +26,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 ### Main Method for Group Communication
 
-Based on the information provided in the “Team Member Communication Modes” table, the group’s primary method of communication will be Messages.
+Based on the information provided the group’s primary method of communication will be group text messaging. Discord will be used for detailed discussions, meeting reminders, assignment updates, and shared information, while email will be reserved for formal communication with the instructor.
  
 ## Communication Procedures
 
@@ -76,22 +76,30 @@ _**Table Legend for Appendix Table 2**_
 
 _**Appendix Table 3**: Project Roles and Duties_
 
-| **Role**          | **Duties**                                                                                                                                |
-| :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+***Appendix Table 3**: Initial Project Roles and Duties*
+
+| **Role**          | **Initial Team Member** | **Duties**                                                                                                                         |
+| :---------------- | :---------------------- | :--------------------------------------------------------------------------------------------------------------------------------- |
+| Meeting leader    | Troy Reynolds           | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting.                                |
+| Meeting recorder  | Cole Trask              | Takes minutes during each meeting, records attendance and action items, and identifies the member responsible for each task.       |
+| Assignment leader | Nikita Bangiyev         | Coordinates the team’s work on the current assignment and ensures that it is reviewed and submitted to Canvas before the deadline. |
+| Project monitor   | Clay Belsher            | Tracks the team’s progress using the project schedule and keeps members informed about milestones, deadlines, and project status.  |
 
 ### Team Process
 
 1. 
 
+## Team Coordination & Accountability
+
+Assignments will be divided among the team with clear responsibilities and deadlines posted in Discord. The team will aim to finish each assignment at least one day early so everyone has time to review and approve it before submission. 
+
+Members are expected to communicate early if they need help or cannot complete something on time. The team will help by working together or reassigning tasks when necessary. If someone repeatedly misses work or does not communicate, the team will give them a warning. If the problem continues, the instructor will be contacted and the pink-slip process may be used.
 
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+When a disagreement occurs, the team will discuss it respectfully and allow each member to explain their position. The team will consider the project requirements, available evidence, schedule, and safety before agreeing on a solution. Responsibilities may be redistributed if one member has too many roles.
 
+If the team cannot resolve the conflict or if it affects deadlines, safety, or academic integrity, the issue will be brought to the instructor for assistance.
 
 ## Signatures
 
