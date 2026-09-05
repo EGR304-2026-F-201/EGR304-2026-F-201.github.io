@@ -85,7 +85,9 @@ _**Appendix Table 3**: Project Roles and Duties_
 
 ### Team Process
 
-1. 
+1. We will change project roles every two weeks.
+2. We will have the roles assigned in a round-robin fashion, each role will have a corresponding number.
+3. We will have open communication and let all group members know 
 
 
 ## Conflict Recognition & Resolution
