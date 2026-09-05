@@ -20,5 +20,4 @@ Detailed team goals and planning can be reviewed in the [Appendix: Team Organiza
 
 The team developed the following mission based on the intended users and purpose of our product:
 
- > Our mission is to provide people who need a simple and affordable way to automate a physical task with a practical, reliable, and easy to use embedded system. By sensing real world conditions and responding through controlled movement, our product will make its intended task safer, easier, and more efficient.
-
+ > Our mission is to provide engineering students and technicians with a compact, reliable, and easy-to-use component organization system. By automatically rotating the selected component compartment into position, PartPort will reduce the time spent searching for small parts and help users maintain an organized workspace.
