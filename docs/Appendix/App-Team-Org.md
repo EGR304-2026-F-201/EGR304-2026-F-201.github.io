@@ -96,6 +96,8 @@ _**Appendix Table 3**: Initial Project Roles and Duties_
 
 ## Team Coordination & Accountability
 
+Design review feedback will be shared in Discord, assigned to specific members, and reviewed by the entire team to confirm that all required changes have been completed.
+
 Assignments will be divided among the team with clear responsibilities and deadlines posted in Discord. The team will aim to finish each assignment at least one day early so everyone has time to review and approve it before submission. 
 
 Members are expected to communicate early if they need help or cannot complete something on time. The team will help by working together or reassigning tasks when necessary. If someone repeatedly misses work or does not communicate, the team will give them a warning. If the problem continues, the instructor will be contacted and the pink-slip process may be used.

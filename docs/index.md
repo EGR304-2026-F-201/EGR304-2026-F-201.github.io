@@ -5,13 +5,13 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Fall 2026 Project Page<br>
+<font size="8">PartPort: Automated Component Carousel<br>
 <font size="5">Team 201<br>
-**Submission: 9 - 4 - 2026**<br>
+**Submission: 09/04/2026**<br>
 Fall 2026<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Kevin Nichols<br>
+Professor Kevin Nichols<br>
   
 
 </center>
@@ -28,11 +28,9 @@ Use the navigation menu to explore our work:
 * **Design Ideation** — Our concept generation, evaluation, and prototyping process.
 
 
-## Team Members Datasheet links
-
-| **Team Member**        |**Ind Datasheet Links** |
-| ---------------------- | -----------------------|
-| Nikita Bangiyev        | [https://github.com/NikitaBang](https://nikitabang.github.io/NikitaBang_EGR304_F26.github.io/) |
-| Troy Reynolds          | https://github.com/TreyRrey480  |
-| Clay Belsher           | [https://github.com/ccbelshe](https://github.com/ccbelshe/ccbelshe_EGR304_F26.github.io) |
-| Cole Trask                | [https://github.com/CT-Cruiser](https://ct-cruiser.github.io/CT-Cruiser_EGR304_F26.github.io) |
+| **Team Member** | **Individual Datasheet** |
+| --- | --- |
+| Nikita Bangiyev | [Nikita's Datasheet](https://nikitabang.github.io/NikitaBang_EGR304_F26.github.io/) |
+| Troy Reynolds | [Troy's Datasheet](https://treyrrey480.github.io/TreyRrey.io/) |
+| Clay Belsher | [Clay's Datasheet](https://ccbelshe.github.io/ccbelshe_EGR304_F26.github.io/) |
+| Cole Trask | [Cole's Datasheet](https://ct-cruiser.github.io/CT-Cruiser_EGR304_F26.github.io/) |
