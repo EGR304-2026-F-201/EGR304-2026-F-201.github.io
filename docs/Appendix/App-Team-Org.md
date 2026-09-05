@@ -53,7 +53,9 @@ _**Appendix Table 2**: Weekly Schedule_
 | 7:00 PM | CT| - | C | - | CT | - | - |
 | 8:00 PM | CT| - | - | - | CT | - | - |
 | 9:00 PM | - | - | - | - | - | - | - |
+
 *Meeting times are subject to change by the discretion of each group member*
+
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
@@ -72,7 +74,7 @@ _**Table Legend for Appendix Table 2**_
 
 ## Roles & Responsibilities
 
-_**Appendix Table 2**: Project Roles and Duties_
+_**Appendix Table 3**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -80,6 +82,8 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+
+
 
 ## Conflict Recognition & Resolution
 
