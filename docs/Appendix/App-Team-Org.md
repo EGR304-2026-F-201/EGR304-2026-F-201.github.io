@@ -35,35 +35,44 @@ Based on the information provided the group’s primary method of communication 
 
 ## Meeting Schedule
 
-_**Appendix Table 2**: Weekly Schedule_
+***Appendix Table 2**: Weekly Schedule*
 
-| Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-| :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | - | - | - | - | - |
-| 9:00 AM | C,CT | CT | - | C,CT | - | CT | - |
-| 10:00 AM | C,CT| C,CT | - | CT | - | C,CT | C,CT |
-| 11:00 AM | C,CT| C,CT| - | C,CT | - | C,CT| C|
-| 12:00 PM | C | C | CT | C | C,CT | C,CT | C|
-| 1:00 PM | C,N | N | CT | C,N | C,CT | C,N,CT | C,N |
-| 2:00 PM | N,CT | N | CT | N | C,CT | C,N,CT | C,N |
-| 3:00 PM | N,CT | - | - | - | C | C,N,CT | N |
-| 4:00 PM | N,CT | CT | C | - | - | N | N |
-| 5:00 PM | N,CT | CT | C,CT | CT | CT | N | N |
-| 6:00 PM | CT | CT | C | CT | CT | - | - |
-| 7:00 PM | CT| - | C | - | CT | - | - |
-| 8:00 PM | CT| - | - | - | CT | - | - |
-| 9:00 PM | - | - | - | - | - | - | - |
+|   Time   | Sunday | Monday | Tuesday | Wednesday | Thursday |    Friday   | Saturday |
+| :------: | :----: | :----: | :-----: | :-------: | :------: | :---------: | :------: |
+|  8:00 AM |    -   |    -   |    -    |     -     |     -    |      -      |     -    |
+|  9:00 AM |  C, CT |   CT   |    -    |   C, CT   |     -    |      CT     |     -    |
+| 10:00 AM |  C, CT |  C, CT |    -    |     CT    |     -    |    C, CT    |   C, CT  |
+| 11:00 AM |  C, CT |  C, CT |    -    |   C, CT   |     -    |    C, CT    |     C    |
+| 12:00 PM |    C   |    C   |    CT   |     C     |   C, CT  | N, T, C, CT |     C    |
+|  1:00 PM |  C, N  |    N   |    CT   |    C, N   |   C, CT  | N, T, C, CT |   C, N   |
+|  2:00 PM |  N, CT |    N   |    CT   |     N     |   C, CT  | N, T, C, CT |   C, N   |
+|  3:00 PM |  N, CT |    -   |    -    |     -     |     C    | N, T, C, CT |     N    |
+|  4:00 PM |  N, CT |   CT   |    C    |     -     |     -    |      N      |     N    |
+|  5:00 PM |  N, CT |   CT   |  C, CT  |     CT    |    CT    |      N      |     N    |
+|  6:00 PM |   CT   |   CT   |    C    |     CT    |    CT    |      -      |     -    |
+|  7:00 PM |   CT   |    -   |    C    |     -     |    CT    |      -      |     -    |
+|  8:00 PM |   CT   |    -   |    -    |     -     |    CT    |      -      |     -    |
+|  9:00 PM |    -   |    -   |    -    |     -     |     -    |      -      |     -    |
 
-*Meeting times are subject to change by the discretion of each group member*
+***Table Legend for Appendix Table 2***
 
-_**Table Legend for Appendix Table 2**_
+| Name   | Abbreviation |
+| ------ | :----------: |
+| Nikita |       N      |
+| Troy   |       T      |
+| Clay   |       C      |
+| Cole   |      CT      |
 
-| Name | Abbreviation |
-| ----- | :------: |
-| Nikita | N |
-| Troy | T |
-| Clay | C |
-| Cole | CT |
+### Shared Availability and Weekly Meeting Time
+
+The team identified the following four shared hours outside of class:
+
+* Friday from 12:00–1:00 PM
+* Friday from 1:00–2:00 PM
+* Friday from 2:00–3:00 PM
+* Friday from 3:00–4:00 PM
+
+We will hold regular weekly meeting every Friday from 1:00–2:00 PM. Meetings will normally be held in person on the ASU campus, with Discord available when a virtual meeting is necessary. Any changes to the meeting time will be discussed and approved by the team through Discord.
 
 ## Meeting Coordination
 
@@ -73,7 +82,6 @@ _**Table Legend for Appendix Table 2**_
 1. A short agenda will be shared before each meeting, and meeting notes and assigned tasks will be posted in Discord afterward. Members should notify the team as early as possible if they cannot attend.
 
 ## Roles & Responsibilities
-
 
 
 _**Appendix Table 3**: Initial Project Roles and Duties_
