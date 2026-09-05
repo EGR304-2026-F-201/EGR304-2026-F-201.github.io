@@ -17,9 +17,15 @@ Kevin Nichols<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+
+Welcome to Team 201's project page. We are a team of engineering students at Arizona State University enrolled in EGR 304. For our Fall 2026 project, we are designing and developing a robotics and motion-control embedded system. Our goal is to create a practical and reliable device that senses real-world conditions and responds through controlled motion. This website documents our team organization, design process, and technical development throughout the semester.
+
+Use the navigation menu to explore our work:
+
+* **Team Organization** — Our team charter, mission statement, and methods of collaboration.
+* **User Needs and Benchmarking** — Our market research and analysis of customer needs.
+* **Product Requirements** — The technical specifications and design requirements for our system.
+* **Design Ideation** — Our concept generation, evaluation, and prototyping process.
 
 
 ## Team Members Datasheet links
