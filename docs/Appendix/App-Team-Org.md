@@ -22,7 +22,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Nikita Bangiyev | Phone | Discord | Email |
 |Troy Reynolds|  Phone | Discord | Email |
 |Clay Belsher |  Phone | Discord | Email |
-|Cole Trask |  Phone | Discord | Email |
+|Cole Trask |  Discord | Phone | Email |
 
 ### Main Method for Group Communication
 
@@ -40,20 +40,20 @@ _**Appendix Table 2**: Weekly Schedule_
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | - | - | - | - | - |
-| 9:00 AM | C | - | - | C | - | - | - |
-| 10:00 AM | C| C | - | C| - | C | C |
-| 11:00 AM | C| C| - | C | - | C| C|
-| 12:00 PM | C | C | - | C | C | C | C|
-| 1:00 PM | C,N | N | - | C,N | C | C,N | C,N |
-| 2:00 PM | N | N | - | N | C | C,N| C,N |
-| 3:00 PM | N | - | - | - | C | C,N | N |
-| 4:00 PM | N | - | C | - | - | N | N |
-| 5:00 PM | N | - | C | - | - | N | N |
-| 6:00 PM | - | - | C | - | - | - | - |
-| 7:00 PM | - | - | C | - | - | - | - |
-| 8:00 PM | - | - | - | - | - | - | - |
+| 9:00 AM | C,CT | CT | - | C,CT | - | CT | - |
+| 10:00 AM | C,CT| C,CT | - | CT | - | C,CT | C,CT |
+| 11:00 AM | C,CT| C,CT| - | C,CT | - | C,CT| C|
+| 12:00 PM | C | C | CT | C | C,CT | C,CT | C|
+| 1:00 PM | C,N | N | CT | C,N | C,CT | C,N,CT | C,N |
+| 2:00 PM | N,CT | N | CT | N | C,CT | C,N,CT | C,N |
+| 3:00 PM | N,CT | - | - | - | C | C,N,CT | N |
+| 4:00 PM | N,CT | CT | C | - | - | N | N |
+| 5:00 PM | N,CT | CT | C,CT | CT | CT | N | N |
+| 6:00 PM | CT | CT | C | CT | CT | - | - |
+| 7:00 PM | CT| - | C | - | CT | - | - |
+| 8:00 PM | CT| - | - | - | CT | - | - |
 | 9:00 PM | - | - | - | - | - | - | - |
-
+*Meeting times are subject to change by the discretion of each group member*
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
@@ -62,6 +62,7 @@ _**Table Legend for Appendix Table 2**_
 | Troy | T |
 | Clay | C |
 | Cole | CT |
+
 ## Meeting Coordination
 
 1. The team will use a shared Discord to keep track of meetings.
