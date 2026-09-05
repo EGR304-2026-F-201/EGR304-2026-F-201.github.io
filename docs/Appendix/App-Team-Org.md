@@ -92,6 +92,8 @@ _**Appendix Table 3**: Project Roles and Duties_
 5. Milestones will be tracked via a checklist in the main discord. 
 6. Technical responsibilies will be assigned based on each member's preferred technical focus.  
 
+## Team Coordination and Accountability
+
 
 ## Conflict Recognition & Resolution
 
