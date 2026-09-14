@@ -6,9 +6,9 @@ title: User Needs and Benchmarking
 
 ### Search #1
 
-**Keywords:** "Akro Mils 10164 reviews dividers drawers sticky sagging cabinet"
+**Keywords:** "automatic liquid filling machine/ precision liquid scale"
 
-**Search Results Link:** [View search results](https://www.google.com/search?q=Akro+Mils+10164+reviews+dividers+drawers+sticky+sagging+cabinet)
+**Search Results Link:** [View search results](https://www.google.com/search?q=automatic+liquid+filling+machine+precise+measurement+dispenser&utm.com)
 
 ### Selected Products
 
@@ -116,7 +116,49 @@ Customer comments below are paraphrased. Explicit needs are directly expressed i
 | **RENE — Home Depot, 4 stars, August 13, 2025:** Said the product looked much bigger in the photo than its actual size; didn't have a tape measure at time of ordering and later returned it without any issues. | Product photos accurately represent actual size. (explicit) |
 | | Returns can be completed without complications. (explicit) |
 
-#### 3. Next Product goes here
+#### 3. [Etekcity Food Kitchen Scale With Bowl](https://www.walmart.com/ip/Etekcity-Food-Kitchen-Scale-With-Bowl-Digital-Ounces-and-Grams-for-Cooking-Baking-Meal-Prep-Dieting-and-Weight-Loss-11lb-5kg-Backlit-Display/604135794?.com)
+<img width="573" height="573" alt="image" src="https://github.com/user-attachments/assets/21134db5-4927-43bc-b345-69484a7e8a7c" />
+
+* Price: $18.99
+
+* Vendor: Walmart.
+
+* Description: A digital kitchen scale that can measure both weight and liquid volume in units like grams, ounces, millimeters, and fluid,ounces.
+
+**Review Resources**
+*[Walmart Customer Reviews](https://www.walmart.com/reviews/product/604135794?entryPoint=viewAllReviewsTop)
+
+Customer comments below are paraphrased. Explicit needs are directly expressed in the feedback. Latent needs are inferred for our product.
+
+##### Positive Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| **Edward — Walmart, 5 stars, December 16, 2025:** Said the scale is practical, easy to use, easy to read, and small enough to store. | Scale is easy to operate. (explicit) |
+| | Display is easy to read. (explicit) |
+| | Scale is compact enough for easy storage. (explicit) |
+| **Jennifer — Walmart, 5 stars, July 4, 2025:** Said the scale is small enough to fit in a drawer or pantry and is easy to clean and use. | Scale is compact and easy to store. (explicit) |
+| | Scale is easy to clean after use. (explicit) |
+| **Bre — Walmart, 5 stars, July 22, 2026:** Said the scale is easy to use, easy to tare, allows easy unit selection, and the previous scale lasted over five years. | Scale provides simple tare controls. (explicit) |
+| | Scale allows users to easily select measurement units. (explicit) |
+| | Scale remains functional over long-term use. (latent) |
+| **Reina — Walmart, 5 stars, March 31, 2026:** Praised the liquid measurement settings, display, bowl attachment, and ease of use. | Scale measures both weight and liquid quantities. (explicit) |
+| | Display clearly communicates measurements. (explicit) |
+| | Scale accommodates a removable container. (explicit) |
+| **Rafael — Walmart, 5 stars, August 8, 2025:** Said the scale does the job and is accurate. | Scale provides accurate measurements. (explicit) |
+
+##### Negative Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| **Sandra — Walmart, 1 star, February 28, 2026:** Said the included batteries were old and died immediately. | Scale includes a reliable power source. (explicit) |
+| | Scale is ready to use when first purchased. (latent) |
+| **Alan — Walmart, 5 stars, April 16, 2026:** Said the included plastic bowl was flimsy and cracked within two days. | Included components resist cracking during normal use. (explicit) |
+| | Scale accessories are durable. (latent) |
+| **Reina — Walmart, 5 stars, March 31, 2026:** Said she wished the included bowl was metal or glass instead of plastic. | Included container is made from durable material. (latent) |
+| **Victoria — Walmart, 5 stars, August 6, 2025:** Said the scale only reads whole numbers rather than tenths of a gram or ounce. | Scale provides sufficient measurement resolution for precise quantities. (explicit) |
+| | Scale can accurately measure small changes in quantity. (latent) |
+
 
 [TEAMMATE: Add the product details and positive/negative review tables.]
 
