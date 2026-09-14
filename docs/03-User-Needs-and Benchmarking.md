@@ -159,9 +159,6 @@ Customer comments below are paraphrased. Explicit needs are directly expressed i
 | **Victoria — Walmart, 5 stars, August 6, 2025:** Said the scale only reads whole numbers rather than tenths of a gram or ounce. | Scale provides sufficient measurement resolution for precise quantities. (explicit) |
 | | Scale can accurately measure small changes in quantity. (latent) |
 
-
-[TEAMMATE: Add the product details and positive/negative review tables.]
-
 #### 4. Next Product goes here
 
 [TEAMMATE: Add the product details and positive/negative review tables.]
