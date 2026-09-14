@@ -18,7 +18,7 @@ Professor Kevin Nichols<br>
 
 ## Team Introduction
 
-Welcome to Team 201's project page. We are a team of engineering students at Arizona State University enrolled in EGR 304. For our Fall 2026 project, we are designing and developing a robotics and motion-control embedded system. Our goal is to create a practical and reliable device that senses real-world conditions and responds through controlled motion. This website documents our team organization, design process, and technical development throughout the semester.
+Welcome to Team 201's project page. We are engineering students at Arizona State University developing PartPort: Liquid Dispenser for EGR 304. This website documents our team organization, research, design decisions, prototype development, and testing.
 
 Use the navigation menu to explore our work:
 
