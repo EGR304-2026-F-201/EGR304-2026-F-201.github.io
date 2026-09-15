@@ -229,6 +229,9 @@ Search Used: "digital liquid dispenser"
 
 [Picture of Clay's notes](https://github.com/user-attachments/assets/0a79d1bf-2b3a-47c4-9ccb-0aef0729c299)
 
+[picture of Nikita's notes](https://github.com/user-attachments/files/32222896/Note.Sep.14.2026.pdf)
+
+
 
 
 ### Grouped with categories
