@@ -215,13 +215,51 @@ Customer comments below are paraphrased. Explicit needs are directly expressed i
 
 ![Vevor Manual Paste Liquid Filling Machine](https://m.media-amazon.com/images/I/61c4PcKDo7L._SL1500_.jpg)
 
-Search Used: "digital liquid dispenser"
+* Price: $120.90
 
-##### Positive Comment
-| Voice Of Customer               | Related Customer Need |
-| ---                             | ---                   |
-|This works great. But. Directions.. not really. Get familiar with the machine. It does have a diagram on how to take apart. Do that BEFORE you use it. Also, order so good pipe cleaners. Not the cheapy craft kind. You will want these to clean it ! I make body butter and this works great for filling all size of jars! I was concerned it wouldn't push it through, but it does. If you put the little dial so the arrow is at the bottom it allows the opening to be larger. This works for thicker products. When you take apart to clean. Use caution and the metal plunger has 2 rings. 1 is plastic and 1 is metal. It can be easy to lose if you are not paying attention, so don't do this at your sink! There is a spring that goes around a rod in the piece that faces towards you. That comes conpletly out for cleaning and that's where you will need the pipe cleaners!|(latent) The device will have as few moving parts as possible.|
-|||(explicit) The device will be easy to clean.| 
+* Vendor: VEVOR.
+
+* Description: A manual stainless-steel filling machine designed to dispense adjustable amounts of liquids and thicker products into bottles or containers.
+
+**Review Resources**  
+*[VEVOR Customer Reviews and Q&A](https://www.vevor.com/liquid-filling-machine-c_10468/vevor-manual-paste-liquid-filling-machine-5-50ml-bottle-filler-adjustable-bottle-filling-machine-stainless-steel-liquid-filler-with-hopper-for-milk-water-juice-essential-oil-shampoo-cosmetic-honey-p_010940592536)
+
+Customer comments below are paraphrased. Explicit needs are directly expressed in the feedback. Latent needs are inferred for our product.
+
+##### Positive Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| **Tiffany Judd — VEVOR:** Said the pump handle was not too difficult to operate. | Product requires reasonable physical effort to operate. (explicit) |
+| | Product is comfortable enough for repeated dispensing. (latent) |
+| **Hazel Petty — VEVOR:** Said the handle takes some effort but is manageable, and the machine worked well enough for lotion and shampoo filling that they purchased a second unit. | Product supports repeated filling tasks effectively. (explicit) |
+| | Product provides enough value and reliability to justify repeated use. (latent) |
+| **Venus Juliana — VEVOR:** Said the machine is put together well and that proper drying after cleaning is important. | Product is well constructed for regular use. (explicit) |
+| | Product can be cleaned and maintained without damaging internal components. (latent) |
+| **Xaviera Nancy — VEVOR:** Said the machine is intended for liquids and creams rather than paint products. | Product works with multiple liquid and cream applications. (explicit) |
+| | Product clearly communicates which materials it can handle. (latent) |
+| **VEVOR Review Summary — 4.6 stars, 209 reviews:** Customers commonly praised the machine for ease of use, versatility, and efficiency. | Product is easy to operate. (explicit) |
+| | Product works with a variety of liquids and filling applications. (explicit) |
+| | Product completes dispensing tasks efficiently. (explicit) |
+
+##### Negative Comments
+
+| Voice of the Customer | Restated Customer Need |
+| --- | --- |
+| **Martina Lizzie — VEVOR:** Said the machine worked well for lotions but leaked when used with after-shower oils. | Product prevents liquid leakage during operation. (explicit) |
+| | Product performs consistently with liquids of different viscosities. (latent) |
+| **Luther Kelvin — VEVOR:** Said using the machine with paint could make cleanup very difficult. | Product is easy to clean after dispensing thicker materials. (explicit) |
+| | Product supports materials that can be removed without excessive cleanup effort. (latent) |
+| **Venus Juliana — VEVOR:** Said the inside must be dried carefully after cleaning. | Product is easy to dry and maintain after cleaning. (explicit) |
+| | Internal components resist damage from retained moisture. (latent) |
+| **Hazel Petty — VEVOR:** Said the handle still requires some physical effort even though it is manageable. | Product requires minimal physical effort to dispense liquid. (explicit) |
+| | Product remains comfortable during repeated filling cycles. (latent) |
+| **VEVOR Review Summary — 4.6 stars, 209 reviews:** Some customers reported durability issues, faulty components, and inconsistent customer support. | Product remains reliable over long-term use. (explicit) |
+| | Product components function correctly without premature failure. (explicit) |
+| | Users receive reliable support when problems occur. (latent) |
+
+
+
 
 
 ### First Placement
