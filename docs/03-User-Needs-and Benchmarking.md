@@ -221,6 +221,7 @@ Search Used: "digital liquid dispenser"
 | Voice Of Customer               | Related Customer Need |
 | ---                             | ---                   |
 |This works great. But. Directions.. not really. Get familiar with the machine. It does have a diagram on how to take apart. Do that BEFORE you use it. Also, order so good pipe cleaners. Not the cheapy craft kind. You will want these to clean it ! I make body butter and this works great for filling all size of jars! I was concerned it wouldn't push it through, but it does. If you put the little dial so the arrow is at the bottom it allows the opening to be larger. This works for thicker products. When you take apart to clean. Use caution and the metal plunger has 2 rings. 1 is plastic and 1 is metal. It can be easy to lose if you are not paying attention, so don't do this at your sink! There is a spring that goes around a rod in the piece that faces towards you. That comes conpletly out for cleaning and that's where you will need the pipe cleaners!|(latent) The device will have as few moving parts as possible.|
+|||(explicit) The device will be easy to clean.| 
 
 
 ### First Placement
