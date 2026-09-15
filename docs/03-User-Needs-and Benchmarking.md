@@ -325,7 +325,30 @@ These 25 needs are one member's contribution. After adding the remaining contrib
 74. Product helps users determine how much liquid remains. (latent)  
 75. Product reduces uncertainty about the amount of liquid present. (latent)  
 
+**Cole Trask Needs 76-100**
 
-**Team member 4 — Needs 76-100**
-
-[Add 25 needs here.]
+76. The product ensures safety of elderly people (explicit)
+77. The product gives independence to disabled people (explicit) 
+78. Buyer trusts the product so to where its a wear item. (latent)
+79. The device has measures to ensure safety of itself and the user.(explicit)
+80. (explicit) The device is made robust.
+81. (latent) The device can handle cold temperatures.
+82. (latent) The device's purpose is intuitive.
+83. (explicit) The device provides a seal over container.
+84. (explicit) the device is pleasurable to use.
+85. (latent) the device has a stable program.
+86. (latent) the device tells users problems it may have.
+87. (explicit) The device operates quickly.
+88. (explicit) The device is quiet.
+89. 
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+99.
+100.
