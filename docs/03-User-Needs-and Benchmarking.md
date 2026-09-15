@@ -70,20 +70,19 @@ Customer comments below are paraphrased from published reviews. Explicit needs d
 | **RAB13 — 1 star, Breville page 2:** Found the troubleshooting advice unhelpful. | Troubleshooting guidance is useful. (explicit) |
 | **Really5 — 1 star, Breville page 2:** Support repeatedly redirected an unresolved complaint. | Customer support resolves problems. (explicit) |
 
-#### 2. [Husky 12 in. Stackable Storage Bin](https://www.homedepot.com/p/Husky-12-in-Stackable-Storage-Bin-805434/321793821)
+#### 2. [KitchenMetrics Digital Kitchen Scale and Measuring Cup](https://www.amazon.com/Digital-Kitchen-Scale-Measuring-Cup/dp/B0734598YQ)
 
-![Husky 12 in. Stackable Storage Bin](https://images.thdstatic.com/productImages/c16a9c7c-aa67-4530-a8ab-030f2a8490ac/svn/black-husky-garage-storage-hooks-805434-64_1000.jpg)
+![KitchenMetrics Digital Kitchen Scale and Measuring Cup](https://m.media-amazon.com/images/I/51pjsqVSB3L._AC_SL1500_.jpg)
 
-* Price: $8.98, recorded September 14, 2026.
+* Price: $22.98, recorded September 14, 2026.
 
-* Vendor: Home Depot.
+* Vendor: Amazon.
 
-* Description: A stackable, lockable plastic bin with a writable label area, designed to store and organize small hardware and parts. This benchmark relates to PartPort's component storage and physical retention of small parts.
+* Description: A 2-in-1 digital kitchen scale with a removable measuring cup that switches between grams, ounces, milliliters, fluid ounces, and cups, used for measuring both liquids and solids. This benchmark relates to PartPort's measurement accuracy, unit selection, and container handling.
 
 **Review Sources:**
 
-* [Home Depot customer reviews](https://www.homedepot.com/p/reviews/Husky-12-in-Stackable-Storage-Bin-805434/321793821/1)
-* [Additional Home Depot reviews](https://www.homedepot.com/p/reviews/Husky-12-in-Stackable-Storage-Bin-805434/321793821/3)
+* [Amazon customer reviews](https://www.amazon.com/Digital-Kitchen-Scale-Measuring-Cup/dp/B0734598YQ)
 
 Customer comments below are paraphrased. Explicit needs are directly expressed in the feedback. Latent needs are inferred for PartPort.
 
@@ -91,35 +90,35 @@ Customer comments below are paraphrased. Explicit needs are directly expressed i
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| **HomeDepotCustomer — Home Depot, 5 stars, May 21, 2025:** Used for storing spare fastening hardware and praised the stacking capability. | Storage handles small hardware components effectively. (explicit) |
-| | Storage units can be stacked together. (explicit) |
-| **HomeDepotCustomer — Home Depot, 5 stars, September 4, 2026:** Called it a great bin for holding miscellaneous items. | Storage accommodates a variety of item types. (explicit) |
-| **HomeDepotCustomer — Home Depot, 5 stars, August 5, 2026:** Said the bin is the perfect size for items you want to keep together but don't have a lot of. | Storage size matches small component quantities. (explicit) |
-| **JEFFREY A — Home Depot, 5 stars, June 17, 2026:** Said the bins are nice to have on the workbench for quick-pick items. | Components can be quickly retrieved during use. (explicit) |
-| | Storage can remain positioned within the workspace. (latent) |
-| **HomeDepotCustomer — Home Depot, 5 stars, February 11, 2026:** Called the bin tough and well-built, noting other containers go flimsy and warp with age and heat. | Storage resists warping over time. (explicit) |
-| | Storage construction holds up under repeated use. (explicit) |
-| **HomeDepotCustomer — Home Depot, 4 stars, March 14, 2026:** Noted the bin clamps to the one below with no collapse of the stack, calling it pricey but worth it. | Stacked storage does not collapse under normal use. (explicit) |
-| | Price reflects the product's perceived quality. (latent) |
-| **Bwayne — Home Depot, 5 stars, December 17, 2025:** Said the bins were exactly what was needed to get organized, praising the stack-and-lock feature for versatility. | Storage units lock together securely. (explicit) |
-| | Storage system adapts to different organizational needs. (latent) |
-| **HomeDepotCustomer — Home Depot, 5 stars, December 10, 2025:** Described the bins as well made, solid, and good-looking, with a great stackable locking feature. | Storage units are sturdy and well constructed. (explicit) |
-| | Storage design is visually appealing. (latent) |
-| **HomeDepotCustomer — Home Depot, 5 stars, November 18, 2025:** Said the stackable bins worked perfectly in their truck — they stay in place, don't fall over, and hold a fair amount of stuff. | Storage remains stable during transport. (explicit) |
-| | Storage holds an adequate quantity of components. (explicit) |
+| **Fabio G — Amazon, 5 stars, December 15, 2023:** Tested accuracy with a 100g weight and got an exact reading; praised the removable cup for measuring both liquids and solids, easy unit switching, a flawless tare function, easy cleaning, and a non-slip rubber base. | Product provides accurate weight measurements. (explicit) |
+| | Product accommodates both liquid and solid measuring. (explicit) |
+| | Product allows users to switch between multiple measurement units. (explicit) |
+| | Product provides a reliable tare/zero function. (explicit) |
+| | Product is easy to clean after use. (explicit) |
+| | Product base resists slipping during use. (explicit) |
+| | Product is lightweight and easy to store. (explicit) |
+| **Kansoomur — Amazon, 5 stars, October 26, 2024:** Used the scale to measure hydraulic fork oil, praised the zero function that works with any container and its sensitivity down to a single dried pepper; wished it had a backlight. | Product functions accurately with any container. (explicit) |
+| | Product supports measurement applications beyond the kitchen. (latent) |
+| | Product detects very small quantity changes. (explicit) |
+| | Product display remains visible in low light. (latent) |
+| **carolyn b — Amazon, 5 stars, January 20, 2026:** Called the scale accurate and easy to clean, noting it's simple to convert between units. | Product allows easy unit conversion. (explicit) |
+| **Pamela Schnepp — Amazon, 5 stars, January 16, 2024:** Said weighing ingredients instead of scooping and leveling improved her bread-making results. | Product improves measurement precision compared to manual methods. (latent) |
+| **Doxrn — Amazon, 5 stars, January 13, 2024:** Said the scale saves them from using a bigger scale, the detachable cup reduces dishes since it doubles as a serving container, and it's used daily for portion control. | Product serves as a compact alternative to larger equipment. (latent) |
+| | Removable cup reduces additional dishware needed. (explicit) |
+| | Product supports consistent portion control. (latent) |
 
 ##### Negative Comments
 
 | Voice of the Customer | Restated Customer Need |
 | --- | --- |
-| **C — Home Depot, 2 stars, June 18, 2026:** Returned the item because the listed size only matched the top of the bin; the bottom was narrower. | Storage dimensions are accurately represented before purchase. (explicit) |
-| | Usable storage volume matches the advertised size. (latent) |
-| **"Why did they change it" — Home Depot, 2 stars, April 8, 2026:** Criticized a redesign where new flip-out legs and slide clips rarely locked, unlike the prior interlocking system; only two of four bins would lock. | Storage units lock together reliably. (explicit) |
-| | Design changes preserve prior functionality. (latent) |
-| **HomeDepotCustomer — Home Depot, 4 stars, December 31, 2025:** Liked the bins but said they get shaky when stacked four or more high without a way to connect them. | Stacked storage remains stable at increased heights. (explicit) |
-| | Storage units can be connected for added stability. (explicit) |
-| **RENE — Home Depot, 4 stars, August 13, 2025:** Said the product looked much bigger in the photo than its actual size; didn't have a tape measure at time of ordering and later returned it without any issues. | Product photos accurately represent actual size. (explicit) |
-| | Returns can be completed without complications. (explicit) |
+| **Chris Werth — Amazon, 1 star, January 18, 2021:** Poured 2 cups of water in and it registered as 4½ cups; found it useless due to inaccurate measurement. | Product provides accurate liquid volume measurements. (explicit) |
+| | Users can trust displayed measurements. (latent) |
+| **Roselinda LaMorte — Amazon, 3 stars, September 26, 2024:** Said the cup markings were supposed to be black or red but arrived clear and hard to see, despite photos showing otherwise. | Product markings are visible against the container material. (explicit) |
+| | Product listing accurately represents the appearance of what will be received. (latent) |
+| **Pam Purcell — Amazon, 4 stars, May 24, 2026:** Said the online warranty registration site was not working. | Product warranty registration process functions correctly. (explicit) |
+| **Amazon Customer — Amazon, 1 star, October 18, 2025 (Canada):** Called the product cheaply made, said the cup markings were hard to read, and reported the grams function did not work. | Product markings remain legible over time. (explicit) |
+| | Product measurement function works reliably at every setting. (explicit) |
+| **Pamela Schnepp — Amazon, 5 stars, January 16, 2024:** Noted the small "G" label for grams was difficult to read for older eyes. | Product display text is large enough to read easily. (explicit) |
 
 #### 3. [Etekcity Food Kitchen Scale With Bowl](https://www.walmart.com/ip/Etekcity-Food-Kitchen-Scale-With-Bowl-Digital-Ounces-and-Grams-for-Cooking-Baking-Meal-Prep-Dieting-and-Weight-Loss-11lb-5kg-Backlit-Display/604135794?.com)
 <img width="573" height="573" alt="image" src="https://github.com/user-attachments/assets/21134db5-4927-43bc-b345-69484a7e8a7c" />
@@ -270,33 +269,33 @@ These 25 needs are one member's contribution. After adding the remaining contrib
 24. Troubleshooting guidance is useful. (explicit)
 25. Customer support resolves problems. (explicit)
 
-**Team member 2 — Needs 26–50**
+**Troy Reynolds — Needs 26–50**
 
-26. Storage handles small hardware components effectively. (explicit)
-27. Storage units can be stacked together. (explicit)
-28. Storage accommodates a variety of item types. (explicit)
-29. Storage size matches small component quantities. (explicit)
-30. Components can be quickly retrieved during use. (explicit)
-31. Storage can remain positioned within the workspace. (latent)
-32. Storage resists warping over time. (explicit)
-33. Storage construction holds up under repeated use. (explicit)
-34. Stacked storage does not collapse under normal use. (explicit)
-35. Price reflects the product's perceived quality. (latent)
-36. Storage units lock together securely. (explicit)
-37. Storage system adapts to different organizational needs. (latent)
-38. Storage units are sturdy and well constructed. (explicit)
-39. Storage design is visually appealing. (latent)
-40. Storage remains stable during transport. (explicit)
-41. Storage holds an adequate quantity of components. (explicit)
-42. Storage dimensions are accurately represented before purchase. (explicit)
-43. Usable storage volume matches the advertised size. (latent)
-44. Storage units lock together reliably. (explicit)
-45. Design changes preserve prior functionality. (latent)
-46. Stacked storage remains stable at increased heights. (explicit)
-47. Storage units can be connected for added stability. (explicit)
-48. Product photos accurately represent actual size. (explicit)
-49. Returns can be completed without complications. (explicit)
-50. Storage system adapts to different organizational needs. (latent)
+26. Product provides accurate weight measurements. (explicit)
+27. Product accommodates both liquid and solid measuring. (explicit)
+28. Product allows users to switch between multiple measurement units. (explicit)
+29. Product provides a reliable tare/zero function. (explicit)
+30. Product is easy to clean after use. (explicit)
+31. Product base resists slipping during use. (explicit)
+32. Product is lightweight and easy to store. (explicit)
+33. Product functions accurately with any container. (explicit)
+34. Product supports measurement applications beyond the kitchen. (latent)
+35. Product detects very small quantity changes. (explicit)
+36. Product display remains visible in low light. (latent)
+37. Product allows easy unit conversion. (explicit)
+38. Product improves measurement precision compared to manual methods. (latent)
+39. Product serves as a compact alternative to larger equipment. (latent)
+40. Removable cup reduces additional dishware needed. (explicit)
+41. Product supports consistent portion control. (latent)
+42. Product provides accurate liquid volume measurements. (explicit)
+43. Users can trust displayed measurements. (latent)
+44. Product markings are visible against the container material. (explicit)
+45. Product listing accurately represents the appearance of what will be received. (latent)
+46. Product warranty registration process functions correctly. (explicit)
+47. Product markings remain legible over time. (explicit)
+48. Product measurement function works reliably at every setting. (explicit)
+49. Product display text is large enough to read easily. (explicit)
+50. Product remains stable during use. (latent)
 
 **Clay Belsher — Needs 51–75**
 
