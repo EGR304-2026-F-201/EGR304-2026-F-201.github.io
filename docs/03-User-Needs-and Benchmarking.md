@@ -340,15 +340,15 @@ These 25 needs are one member's contribution. After adding the remaining contrib
 86. (latent) the device tells users problems it may have.
 87. (explicit) The device operates quickly.
 88. (explicit) The device is quiet.
-89. 
-90.
-91.
-92.
-93.
-94.
-95.
-96.
-97.
-98.
-99.
-100.
+89. (explicit) The device can be used by anyone regardless of spoken language.
+90. (latent) The device will be easy to manufacture.
+91. (explicit) The device will be easy to clean.
+92. (latent) The device will have as few moving parts as possible.
+93. (explicit) The device not require hard effort to use.
+94. (explicit) The device will work for a variety of applications.
+95. (explicit) The device will result in less resources being wasted.
+96. (explicit) The device will be convenient to the user.
+97. (explicit) The device can be trusted by the customer.
+98. (explicit) The user will feel pride in using the device.
+99. (explicit) The device will survive daily use.
+100. (explicit) The device will be usable by persons of all ages. 
