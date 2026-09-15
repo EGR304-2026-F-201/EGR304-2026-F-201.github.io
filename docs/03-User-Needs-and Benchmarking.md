@@ -227,6 +227,7 @@ Search Used: "digital liquid dispenser"
 ### First Placement
 ![picture of cole's notes](https://drive.google.com/file/d/12OIzXE6sq4i7LzaD2BQIVj5KdfBb-l96/view?usp=sharing)
 
+![Picture of Clay's notes](<img width="784" height="1198" alt="image" src="https://github.com/user-attachments/assets/515702ed-b69b-44d8-8c9e-0d7c5374c9dc" />)
 
 ### Grouped with categories
 
