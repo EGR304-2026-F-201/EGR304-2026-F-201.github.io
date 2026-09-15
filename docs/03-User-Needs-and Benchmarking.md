@@ -225,8 +225,8 @@ Search Used: "digital liquid dispenser"
 
 
 ### First Placement
+![picture of cole's notes](https://drive.google.com/file/d/12OIzXE6sq4i7LzaD2BQIVj5KdfBb-l96/view?usp=sharing)
 
-[TEAM: Insert a photo or screenshot showing all collected needs on individual notes before grouping.]
 
 ### Grouped with categories
 
