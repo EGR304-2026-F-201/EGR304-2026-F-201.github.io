@@ -211,13 +211,9 @@ Customer comments below are paraphrased. Explicit needs are directly expressed i
 
 
 
-#### 5. Next Product goes here
+#### 5. [Vevor Manual Paste Liquid Filling Machine](https://www.amazon.com/VEVOR-Adjustable-Stainless-Essential-Cosmetic/dp/B0CTJZMRG3?ie=UTF8&th=1)
 
-[TEAMMATE: Add the product details and positive/negative review tables.]
 
-**Patent Benchmarking**
-
-[TEAM: Add patent search keywords, a search-results link, selected patent links, and brief explanations of their relevance to PartPort.]
 
 ## Organized Need Statements
 
