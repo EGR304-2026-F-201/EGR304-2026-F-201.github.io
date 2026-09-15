@@ -237,20 +237,12 @@ Search Used: "digital liquid dispenser"
 ### Grouped with categories
 <img width="406" height="400" alt="Screenshot 2026-09-14 212019" src="https://github.com/user-attachments/assets/976b0d30-4b07-4bde-ba2b-f74b8d348d3c" />
 
-[TEAM: Combine duplicates and group the needs into categories. Add a bold overall need statement for each category.]
-
-[Insert the grouped-notes screenshot and briefly explain the changes.]
 
 ### Ranked
 <img width="401" height="200" alt="Screenshot 2026-09-14 212148" src="https://github.com/user-attachments/assets/9ad46fa5-32d9-4fec-9513-197ae7802fa2" />
 
-[TEAM: Assign priorities to the needs and explain how the team decided their importance.]
-
-[Insert the ranked-notes screenshot.]
 
 ## Compiled list of user Needs
-
-These 25 needs are one member's contribution. After adding the remaining contributions, the team will consolidate, group, and prioritize 100 unique needs.
 
 **Nikita Bangiyev - Needs 1-25**
 
