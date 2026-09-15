@@ -1,4 +1,3 @@
-[Troy_Reynolds_Handwritten_Notes.pdf](https://github.com/user-attachments/files/32223862/Troy_Reynolds_Handwritten_Notes.pdf)
 ---
 title: User Needs and Benchmarking
 ---
