@@ -24,6 +24,7 @@ title: User Needs and Benchmarking
 
 **Review Sources:**
 
+
 * [Home Depot customer reviews](https://www.homedepot.com/p/reviews/Akro-Mils-64-Compartment-Drawer-Small-Parts-Organizer-Hardware-Storage-20-in-W-x-6-3-8-in-D-x-16-in-H-Black-1-Pack-10164/203538935/1)
 * [Additional Home Depot reviews](https://www.homedepot.com/p/reviews/Akro-Mils-64-Compartment-Drawer-Small-Parts-Organizer-Hardware-Storage-20-in-W-x-6-3-8-in-D-x-16-in-H-Black-1-Pack-10164/203538935/5)
 * [eBay reviews of the same model](https://www.ebay.com/urw/Akro-Mils-10164-64-Drawer-Tool-Storage-Bin/product-reviews/26018553178)
@@ -123,7 +124,7 @@ Customer comments below are paraphrased. Explicit needs are directly expressed i
 
 * Vendor: Walmart.
 
-* Description: A digital kitchen scale that can measure both weight and liquid volume in units like grams, ounces, millimeters, and fluid,ounces.
+* Description: A digital kitchen scale that can measure both weight and liquid volume in units like grams, ounces, milliliters, and fluid,ounces.
 
 **Review Resources**
 *[Walmart Customer Reviews](https://www.walmart.com/reviews/product/604135794?entryPoint=viewAllReviewsTop)
@@ -165,7 +166,7 @@ Customer comments below are paraphrased. Explicit needs are directly expressed i
 
 * Price: $54.99
 
-* Vendor: Amazon.
+* Vendor: WaterH.
 
 * Description: A smart water bottle that tracks water intake, sends drinking reminders, and monitors hydration progress through a connected app.
 
@@ -206,8 +207,6 @@ Customer comments below are paraphrased. Explicit needs are directly expressed i
 | | Users receive reliable support when problems occur. (latent) |
 
 
-
-[TEAMMATE: Add the product details and positive/negative review tables.]
 
 #### 5. Next Product goes here
 
@@ -293,9 +292,34 @@ These 25 needs are one member's contribution. After adding the remaining contrib
 49. Returns can be completed without complications. (explicit)
 50. Storage system adapts to different organizational needs. (latent)
 
-**Team member 3 — Needs 51–75**
+**Clay Belsher — Needs 51–75**
 
-[Add 25 needs here.]
+51. Product is easy to operate. (explicit)  
+52. Display is easy to read. (explicit)  
+53. Product is compact and easy to store. (explicit)  
+54. Product is easy to clean after use. (explicit)  
+55. Product provides a simple tare or zeroing function. (explicit)  
+56. Product allows users to select between different measurement units. (explicit)  
+57. Product remains functional over long-term use. (latent)  
+58. Product accurately measures liquid quantities. (explicit)  
+59. Product clearly communicates the amount of liquid being measured. (explicit)  
+60. Product accommodates different containers. (explicit)  
+61. Product detects small changes in liquid quantity. (explicit)  
+62. Product provides enough measurement resolution for small amounts of liquid. (latent)  
+63. Product provides consistent measurements between uses. (latent)  
+64. Product components resist cracking or breaking during normal use. (explicit)  
+65. Product materials withstand repeated everyday use. (latent)  
+66. Product has a reliable power source. (explicit)  
+67. Product is ready to use when first purchased. (latent)  
+68. Product tracks changes in liquid quantity over time. (explicit)  
+69. Product keeps measurement information updated throughout use. (explicit)  
+70. Product provides reminders or alerts when user action is needed. (explicit)  
+71. Product allows users to set and monitor a desired liquid goal. (explicit)  
+72. Product stores previous measurement data for later review. (explicit)  
+73. Product can be recalibrated when measurements become inaccurate. (explicit)  
+74. Product helps users determine how much liquid remains. (latent)  
+75. Product reduces uncertainty about the amount of liquid present. (latent)  
+
 
 **Team member 4 — Needs 76-100**
 
