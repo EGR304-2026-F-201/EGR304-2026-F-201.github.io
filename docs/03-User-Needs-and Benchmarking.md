@@ -1,3 +1,4 @@
+[Troy_Reynolds_Handwritten_Notes.pdf](https://github.com/user-attachments/files/32223862/Troy_Reynolds_Handwritten_Notes.pdf)
 ---
 title: User Needs and Benchmarking
 ---
@@ -268,6 +269,8 @@ Customer comments below are paraphrased. Explicit needs are directly expressed i
 [Picture of Clay's notes](https://github.com/user-attachments/assets/0a79d1bf-2b3a-47c4-9ccb-0aef0729c299)
 
 [picture of Nikita's notes](https://github.com/user-attachments/files/32222896/Note.Sep.14.2026.pdf)
+
+[picture of Troy's notes](https://github.com/user-attachments/files/32223872/Troy_Reynolds_Handwritten_Notes.pdf)
 
 
 
