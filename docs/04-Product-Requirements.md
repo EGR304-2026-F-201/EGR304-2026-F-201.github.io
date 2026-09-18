@@ -17,15 +17,17 @@ Fill-A-Bot should allow a user to request a desired amount of liquid, dispense t
 
 ## Use Cases
 
-### User Story #1: Jenna
+### User Story #1: Maya – Engineering Student
 
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
+Maya is an engineering student working in a laboratory and needs 250 mL of water for an experiment. Instead of measuring the liquid manually, she places her container under Fill-A-Bot, selects the amount she needs, and starts the system. Fill-A-Bot dispenses the water while showing the amount being delivered and automatically stops when the selected amount is reached.
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+Later, Maya needs a different amount of water for another test, so she enters a new quantity and repeats the process. The system gives her consistent measurements, reduces the chance of spills, and works with different containers. After she is finished, the liquid-contacting parts are easy to clean so the system can be ready for the next use.
 
-### User Story #2
+### User Story #2: Jordan – Home User
 
-...
+Jordan is preparing a recipe at home that requires a specific amount of water. Instead of using a measuring cup and checking the level by hand, Jordan places a container under Fill-A-Bot, enters the amount needed, and starts the system. The dispenser releases the selected amount of water and automatically stops once the target is reached.
+
+Later in the day, Jordan uses Fill-A-Bot again to fill a bottle with a different amount of water. The system makes it easier to get consistent amounts without overfilling the container or spilling water on the counter. Its simple controls make it useful for normal everyday tasks around the house.
 
 ## Aspects
 
