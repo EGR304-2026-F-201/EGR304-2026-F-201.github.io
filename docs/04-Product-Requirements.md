@@ -9,11 +9,11 @@ Fill-A-Bot should allow a user to request a desired amount of liquid, dispense t
 
 ## Stakeholders
 
-* **Target group** High-income upper-class professionals between the age of 20 and 45. Their personalities are determined and ambitious. The main benefits sought are recreation and self-expression.
-* **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
-* **Customer service** Prefers easy-to-repair, recyclable product, and easy-to-fix complaints to fit with Apple’s intuitive user experience.
-* **Marketing & Sales division** Looks for unique selling points around the Apple Aspirer-Explorer lifestyle and user experience.
-* **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.
+* **Target group** Professors, students, technicians, and other users who need to dispense measured amounts of liquid quickly and consistently.their main needs are accuracy, repeatability, ease of use, and less manual measuring.
+* **Target purchaser** Schools, laboratories, engineering teams, or other organizations that may need a reliable liquid dispensing system. They would likely focus on cost, reliability, and ease of maintenance.
+* **Maintenance/ Service** Users responsible for cleaning, troubleshooting, or replacing parts. They need the liquid-contacting parts to be easy to access, clean, and replace without taking apart the entire system.
+* **Marketing& Sales** Would focus on the main advantages of Fill-A-Bot, such as repeatable dispensing, simple operation, reduced manual measuring, and less mess during use.
+* **Retailers/ Distributors** Would care about the product being compact, durable, easy to package, and able to handle normal shipping and storage conditions without damage.
 
 ## Use Cases
 
