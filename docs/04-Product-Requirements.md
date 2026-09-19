@@ -87,6 +87,16 @@ The following requirements describe the expected performance and features of Fil
 * **6.7** Electrical components shall operate within their manufacturer-specified voltage and current limits. (P10)
 ## Requirement Criteria Specifications
 
+### Design Requirements
+
+#### 1. Functional Requirements
+
+    * **1.1** *Fill Method:* The device must transfer liquid from a source to a desired container using an electric pump. 
+    * **1.2** *Use of Logic:* The device must use a microcontroller to measure the amount of liquid being dispensed.
+    * **1.3** *Accuracy:* The device must fill containers to +-1% the desired amount.
+    
+
+
 ## Open Questions
 
 * What range of liquid volumes should Fill-A-Bot be able to dispense?
