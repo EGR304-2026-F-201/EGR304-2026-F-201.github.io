@@ -105,7 +105,7 @@ The following requirements describe the expected performance and features of Fil
 * **2.3** *Responsiveness:* The device must give user a positve confirmation that their input has been recognized by the device. 
 * **2.4** *User Input*: The device must have a physical means for user input on the device itself. 
 
-### 3. User Experience Requirements
+#### 3. User Experience Requirements
 
 * **3.1** *Ease of Use:* A first-time user provided with operating instructions shall be able to complete one normal dispensing cycle without assistance.  
   **Verification:** Demonstration
@@ -113,11 +113,16 @@ The following requirements describe the expected performance and features of Fil
 * **3.2** *Container Compatibility:* The device shall accommodate at least two different container sizes without modification to the primary dispensing hardware.  
   **Verification:** Demonstration
 
-* **3.3** Readability:* Displayed quantities and system status information shall be readable from the normal operating position.  
+* **3.3** *Readability:* Displayed quantities and system status information shall be readable from the normal operating position.  
   **Verification:** Inspection
 
 * **3.4** *Manual Stop:* The user shall be able to manually stop an active dispensing cycle using a user-accessible control.  
   **Verification:** Demonstration
+
+#### 4. Hardware Requirements
+
+* **4.1** *Microcontroller:* The device must make use of the PIC18F57Q43 Curiosity Nano Board. 
+* **4.2** *Display:* The device must use a high-contrast easy-to-read display. 
 
 
 
