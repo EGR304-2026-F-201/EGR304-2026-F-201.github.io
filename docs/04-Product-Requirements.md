@@ -105,12 +105,21 @@ The following requirements describe the expected performance and features of Fil
 * **2.3** *Responsiveness:* The device must give user a positve confirmation that their input has been recognized by the device. 
 * **2.4** *User Input*: The device must have a physical means for user input on the device itself. 
 
-#### 3. Hardware Requirements
-* **3.1** *Micro Controller:* The device must make use of the PIC18F57Q43 Curiosity Nano Board. 
-* **3.2** *Display:* The device must contain an easy-to-read display. 
-* **3.3** *Water-Resistance:* The device must have its electronics isolated from the water-handling parts of the device. 
-* **3.4** *
-    
+### 3. User Experience Requirements
+
+* **3.1 Ease of Use:** A first-time user provided with operating instructions shall be able to complete one normal dispensing cycle without assistance.  
+  **Verification:** Demonstration
+
+* **3.2 Container Compatibility:** The device shall accommodate at least two different container sizes without modification to the primary dispensing hardware.  
+  **Verification:** Demonstration
+
+* **3.3 Readability:** Displayed quantities and system status information shall be readable from the normal operating position.  
+  **Verification:** Inspection
+
+* **3.4 Manual Stop:** The user shall be able to manually stop an active dispensing cycle using a user-accessible control.  
+  **Verification:** Demonstration
+
+
 
 
 ## Open Questions
@@ -119,3 +128,9 @@ The following requirements describe the expected performance and features of Fil
 * What container sizes should fit underneath the dispenser?
 * What should the power source be?
 * What type of display or feedback system will be used?
+* What method should be used to measure the amount of liquid dispensed?
+* What mechanism should be used to control liquid flow?
+* What level of dispensing accuracy can the prototype consistently achieve?
+* Should Fill-A-Bot detect whether a container is positioned underneath the dispenser before dispensing?
+* How should the system detect an empty reservoir or insufficient liquid?
+* Which components should be removable to make cleaning and maintenance easier?
