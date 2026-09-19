@@ -18,7 +18,7 @@ Professor Kevin Nichols<br>
 
 ## Team Introduction
 
-Welcome to Team 201's project page. We are engineering students at Arizona State University developing PartPort: Liquid Dispenser for EGR 304. This website documents our team organization, research, design decisions, prototype development, and testing.
+Welcome to Team 201's project page. We are engineering students at Arizona State University developing Fill-A-Bot: Liquid Dispenser for EGR 304. This website documents our team organization, research, design decisions, prototype development, and testing.
 
 Use the navigation menu to explore our work:
 
