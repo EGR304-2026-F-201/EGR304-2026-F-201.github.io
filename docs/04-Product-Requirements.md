@@ -91,16 +91,19 @@ The following requirements describe the expected performance and features of Fil
 
 #### 1. Functional Requirements
 
-    * **1.1** *Fill Method:* The device must transfer liquid from a source to a desired container using an electric pump. 
-    * **1.2** *Use of Logic:* The device must use a microcontroller to measure the amount of liquid being dispensed.
-    * **1.3** *Accuracy:* The device must fill containers to +-1% the desired amount.
-    * **1.4** *Units:* The device must be able accurately fill using different user-specified units. 
+* **1.1** *Fill Method:* The device must transfer liquid from a source to a desired container using an electric pump. 
+* **1.2** *Use of Logic:* The device must use a microcontroller to measure the amount of liquid being dispensed.
+* **1.3** *Accuracy:* The device must fill containers to +-1% the desired amount.
+* **1.4** *Units:* The device must be able accurately fill using different user-specified units.
+* **1.5** *Emergency Stop:* The device must be able to be stopped at any moment by the user. 
 
 #### 2. Software/UI Requirements
 
-    * **2.1** *Display:* The device must use a display that tells the user the numerical amount entered as well as the specified units. The display must also show the status of the device such as "Ready", "Filling", and "Finished". 
-    * **2.2** *Unit Calculations:* The device must make calculations to determine how to much to fill a container when using differing units. 
-    * **2.3** *Responsiveness: 
+* **2.1** *Display:* The device must use a display that tells the user the numerical amount entered as well as the specified units. The display must also show the status of the device such as "Ready", "Filling", and "Finished". 
+ * **2.2** *Unit Calculations:* The device must make calculations to determine how to much to fill a container when using differing units. 
+* **2.3** *Responsiveness:* The device must give user a positve confirmation that their input has been recognized by the device. 
+
+#### 3. 
     
 
 
