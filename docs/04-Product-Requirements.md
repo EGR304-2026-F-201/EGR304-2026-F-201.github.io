@@ -96,14 +96,20 @@ The following requirements describe the expected performance and features of Fil
 * **1.3** *Accuracy:* The device must fill containers to +-1% the desired amount.
 * **1.4** *Units:* The device must be able accurately fill using different user-specified units.
 * **1.5** *Emergency Stop:* The device must be able to be stopped at any moment by the user. 
+* **1.6** *Water-Tightness:* The device must not leak when both idle and operating. 
 
 #### 2. Software/UI Requirements
 
 * **2.1** *Display:* The device must use a display that tells the user the numerical amount entered as well as the specified units. The display must also show the status of the device such as "Ready", "Filling", and "Finished". 
  * **2.2** *Unit Calculations:* The device must make calculations to determine how to much to fill a container when using differing units. 
 * **2.3** *Responsiveness:* The device must give user a positve confirmation that their input has been recognized by the device. 
+* **2.4** *User Input*: The device must have a physical means for user input on the device itself. 
 
-#### 3. 
+#### 3. Hardware Requirements
+* **3.1** *Micro Controller:* The device must make use of the PIC18F57Q43 Curiosity Nano Board. 
+* **3.2** *Display:* The device must contain an easy-to-read display. 
+* **3.3** *Water-Resistance:* The device must have its electronics isolated from the water-handling parts of the device. 
+* **3.4** *
     
 
 
