@@ -758,33 +758,142 @@
   <h1>Design Ideation</h1>
 
 <h2 id="introoverview">Intro/overview</h2>
-<p>Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina <strong>habebat</strong>: pro.</p>
+<p>Fill-A-Bot is a liquid dispenser intended to help students, technicians, and other users measure and dispense liquid with less manual effort. A user will select an amount, place a container under the outlet, and start dispensing. The system is intended to measure the liquid delivered, show its progress, and stop when it reaches the selected amount. Our design also aims to reduce spills and make the device easy to use and clean.</p>
 <h2 id="generating-ideas">Generating Ideas</h2>
-<p>For each user need and product requirement, brainstorm 5 different product features that could be used to satisfy that requirement.</p>
+<p>The following ideas explore different ways Fill-A-Bot could measure and dispense liquid, prevent spills, communicate with users, and make cleaning easier.</p>
 <table>
 <thead>
 <tr>
-<th style="text-align: right;">requirement / need</th>
-<th style="text-align: center;">feature</th>
-<th>detail</th>
+<th>Requirement / need</th>
+<th>Feature</th>
+<th>Detail</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align: right;">product provides clear notifications</td>
-<td style="text-align: center;">buzzer</td>
-<td>the device provides different sounding tones and patterns for each function</td>
+<td>Measure the amount dispensed</td>
+<td>Scale beneath the cup</td>
+<td>Measure the cup's weight before and during filling to estimate the amount added.</td>
 </tr>
 <tr>
-<td style="text-align: right;">product provides clear notifications</td>
-<td style="text-align: center;">speaker</td>
-<td>the device can emit full waveforms</td>
+<td>Measure the amount dispensed</td>
+<td>Scale beneath the reservoir</td>
+<td>Measure how much weight the reservoir loses during a pour.</td>
 </tr>
 <tr>
-<td style="text-align: right;">..</td>
-<td style="text-align: center;">..</td>
-<td>..</td>
+<td>Measure the amount dispensed</td>
+<td>Inline flow sensor</td>
+<td>Count sensor pulses as liquid passes through the tubing.</td>
+</tr>
+<tr>
+<td>Measure the amount dispensed</td>
+<td>Pump rotation sensor</td>
+<td>Count pump revolutions and calibrate how much liquid each revolution delivers.</td>
+</tr>
+<tr>
+<td>Measure the amount dispensed</td>
+<td>Timed, calibrated pump</td>
+<td>Run the pump for a calculated time based on measurements from test pours.</td>
+</tr>
+<tr>
+<td>Deliver a selected amount</td>
+<td>Peristaltic pump</td>
+<td>Move liquid through tubing and stop the motor when the target is reached.</td>
+</tr>
+<tr>
+<td>Deliver a selected amount</td>
+<td>Diaphragm pump</td>
+<td>Pump liquid from the reservoir to the cup under controller command.</td>
+</tr>
+<tr>
+<td>Deliver a selected amount</td>
+<td>Motor-driven syringe</td>
+<td>Move a syringe plunger a calculated distance for each dispense.</td>
+</tr>
+<tr>
+<td>Deliver a selected amount</td>
+<td>Gravity-fed valve</td>
+<td>Place the reservoir above the outlet and electronically open and close a valve.</td>
+</tr>
+<tr>
+<td>Deliver a selected amount</td>
+<td>Gear pump</td>
+<td>Control a small pump's rotation to move liquid toward the outlet.</td>
+</tr>
+<tr>
+<td>Prevent spills and unsafe operation</td>
+<td>Infrared cup sensor</td>
+<td>Allow dispensing only when a cup is detected beneath the nozzle.</td>
+</tr>
+<tr>
+<td>Prevent spills and unsafe operation</td>
+<td>Ultrasonic cup sensor</td>
+<td>Check for a container below the outlet before starting.</td>
+</tr>
+<tr>
+<td>Prevent spills and unsafe operation</td>
+<td>Cup-presence check using the scale</td>
+<td>Require a stable weight on the cup platform before dispensing.</td>
+</tr>
+<tr>
+<td>Prevent spills and unsafe operation</td>
+<td>Leak sensor in the base</td>
+<td>Stop the pump if liquid reaches a drip area near the electronics.</td>
+</tr>
+<tr>
+<td>Prevent spills and unsafe operation</td>
+<td>Maximum run-time cutoff</td>
+<td>Stop dispensing if it continues longer than a set safety limit.</td>
+</tr>
+<tr>
+<td>Make operation and feedback clear</td>
+<td>Buttons and LCD</td>
+<td>Use buttons to set an amount and display the target and delivered amount.</td>
+</tr>
+<tr>
+<td>Make operation and feedback clear</td>
+<td>Rotary knob and OLED</td>
+<td>Turn a knob to select an amount and press it to start.</td>
+</tr>
+<tr>
+<td>Make operation and feedback clear</td>
+<td>Numeric keypad</td>
+<td>Let users type a specific amount before pressing Start.</td>
+</tr>
+<tr>
+<td>Make operation and feedback clear</td>
+<td>Preset amount buttons</td>
+<td>Offer frequently used amounts with one button press each.</td>
+</tr>
+<tr>
+<td>Make operation and feedback clear</td>
+<td>Progress display and buzzer</td>
+<td>Show filling progress and sound a brief alert when dispensing ends.</td>
+</tr>
+<tr>
+<td>Make cleaning and refilling easy</td>
+<td>Removable reservoir</td>
+<td>Lift out the liquid container for refilling and washing.</td>
+</tr>
+<tr>
+<td>Make cleaning and refilling easy</td>
+<td>Replaceable pump tubing</td>
+<td>Remove liquid-contact tubing for cleaning or replacement.</td>
+</tr>
+<tr>
+<td>Make cleaning and refilling easy</td>
+<td>Quick-disconnect tubing</td>
+<td>Disconnect the liquid line without opening the electronics enclosure.</td>
+</tr>
+<tr>
+<td>Make cleaning and refilling easy</td>
+<td>Removable drip tray</td>
+<td>Catch stray drops in a tray that can be taken out and washed.</td>
+</tr>
+<tr>
+<td>Make cleaning and refilling easy</td>
+<td>Accessible nozzle</td>
+<td>Position the outlet so users can reach and wipe it after use.</td>
 </tr>
 </tbody>
 </table>
