@@ -87,6 +87,31 @@ The following ideas explore different ways Fill-A-Bot could measure and dispense
 | Make repairs easier | Plug-in pump connection | Allow the pump to be disconnected and replaced without soldering. |
 | Make repairs easier | Labeled internal wires | Identify connections so a team member can troubleshoot or replace a part. |
 | Make repairs easier | Replaceable button assembly | Let users replace a worn control without replacing the entire device. |
+| Allow emergency stopping | Emergency stop button | Immediately stop the pump when the user presses a dedicated safety button. |
+| Allow emergency stopping | Pump power switch | Let the user directly turn off power to the pump if needed. |
+| Allow emergency stopping | Cancel button | Let the user cancel a dispensing cycle before it is finished. |
+| Monitor reservoir condition | Float level sensor | Detect when the liquid in the reservoir falls below a minimum level. |
+| Monitor reservoir condition | Transparent reservoir | Let the user visually check how much liquid remains. |
+| Monitor reservoir condition | Low-water warning | Display a warning when the reservoir is nearly empty. |
+| Keep the device stable | Rubber feet | Prevent the dispenser from sliding across the work surface during use. |
+| Keep the device stable | Weighted base | Place heavier components near the bottom to reduce the chance of tipping. |
+| Keep the device stable | Wide base | Use a wider enclosure base to improve stability with different containers. |
+| Reduce dripping and splashing | Pinch valve | Close the flexible tubing after dispensing to reduce dripping from the nozzle. |
+| Reduce dripping and splashing | Splash guard | Place a removable barrier around the dispensing area to contain stray drops. |
+| Reduce dripping and splashing | Narrow nozzle tip | Direct the liquid stream more accurately into smaller container openings. |
+| Detect system problems | Sensor error message | Display an error when the measurement sensor gives an invalid reading. |
+| Detect system problems | No-flow warning | Warn the user if the pump is running but the measured liquid amount is not increasing. |
+| Detect system problems | Startup sensor check | Check that the measurement sensor is working before allowing dispensing. |
+| Improve dispensing control | Two-speed pump control | Use a faster pump speed during filling and a slower speed near the target amount. |
+| Improve dispensing control | Target approach slowdown | Reduce the pump speed as the measured amount approaches the selected amount. |
+| Improve dispensing control | Small-volume mode | Use a slower pump speed when dispensing small amounts for better control. |
+| Make the device accessible | Large control buttons | Make important controls easy to see and press. |
+| Make the device accessible | High-contrast display | Make measurements and system messages easier to read. |
+| Make the device accessible | Angled display mount | Position the display at an angle that is easy to see during normal use. |
+| Make manufacturing easier | Two-piece enclosure | Use a simple base and cover that can be manufactured and assembled separately. |
+| Make manufacturing easier | Standard screws | Use common screw sizes to simplify assembly and maintenance. |
+| Reduce wasted liquid | Automatic tube priming | Fill empty tubing before starting the measured dispensing cycle. |
+| Reduce wasted liquid | Reservoir fill markings | Let the user easily see approximately how much liquid is available. |
 ## Step Three
 
 Add your context and tables
