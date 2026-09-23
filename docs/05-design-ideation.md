@@ -112,6 +112,7 @@ The following ideas explore different ways Fill-A-Bot could measure and dispense
 | Make manufacturing easier | Standard screws | Use common screw sizes to simplify assembly and maintenance. |
 | Reduce wasted liquid | Automatic tube priming | Fill empty tubing before starting the measured dispensing cycle. |
 | Reduce wasted liquid | Reservoir fill markings | Let the user easily see approximately how much liquid is available. |
+
 ## Step Three
 
 Add your context and tables
