@@ -62,6 +62,31 @@ The following ideas explore different ways Fill-A-Bot could measure and dispense
 | Support repeated dispensing cycles | New-container prompt | Remind users to place an empty container before starting another pour. |
 | Support repeated dispensing cycles | Cycle counter | Track how many pours the device has completed since startup. |
 | Support repeated dispensing cycles | Pump cooldown indicator | Tell users when the pump is ready for another dispensing cycle. |
+| Keep the device reliable | Startup sensor check | Check that the measurement sensor responds before allowing a pour. |
+| Keep the device reliable | Watchdog timer | Reset the controller if the program stops responding. |
+| Keep the device reliable | Secured wire connections | Use connectors that stay attached during repeated operation. |
+| Keep the device reliable | Pump mounting bracket | Hold the pump firmly in place while it runs. |
+| Keep the device reliable | Error state | Stop the pump and show an error if the measurement sensor stops giving usable readings. |
+| Provide reliable power | Wall power adapter | Supply the device with the voltage and current its parts require. |
+| Provide reliable power | Power switch | Let users turn the device fully off when it is not in use. |
+| Provide reliable power | Replaceable fuse | Protect the electrical circuit if too much current flows. |
+| Provide reliable power | Power indicator light | Show users when the device is receiving power. |
+| Provide reliable power | Low-voltage detection | Stop a pour if the supply voltage drops too low for reliable operation. |
+| Make operation accessible | Large Start button | Make the main control easy to locate and press. |
+| Make operation accessible | Distinct Stop button | Use a different color and shape so users can find Stop quickly. |
+| Make operation accessible | High-contrast control labels | Make the buttons easier to identify from a normal operating position. |
+| Make operation accessible | Printed quick-start instructions | Put the basic operating steps on the device housing. |
+| Make operation accessible | Adjustable display brightness | Let users make the screen easier to read in different lighting. |
+| Reduce incomplete pours | Low-reservoir sensor | Detect when the liquid supply is too low to complete a pour. |
+| Reduce incomplete pours | Prime button | Fill empty tubing with liquid before beginning a measured pour. |
+| Reduce incomplete pours | Reservoir fill markings | Help users check whether enough liquid is available before starting. |
+| Reduce incomplete pours | Minimum-amount setting | Prevent users from selecting an amount too small for the system to dispense accurately. |
+| Reduce incomplete pours | Maximum-amount setting | Prevent users from requesting more liquid than the device can safely dispense in one cycle. |
+| Make repairs easier | Standard-size tubing | Use tubing that can be replaced without ordering a custom part. |
+| Make repairs easier | Screw-fastened enclosure | Allow the housing to be opened for service without damaging it. |
+| Make repairs easier | Plug-in pump connection | Allow the pump to be disconnected and replaced without soldering. |
+| Make repairs easier | Labeled internal wires | Identify connections so a team member can troubleshoot or replace a part. |
+| Make repairs easier | Replaceable button assembly | Let users replace a worn control without replacing the entire device. |
 ## Step Three
 
 Add your context and tables
