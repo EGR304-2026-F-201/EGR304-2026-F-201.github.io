@@ -113,13 +113,16 @@ The following ideas explore different ways Fill-A-Bot could measure and dispense
 | Reduce wasted liquid | Automatic tube priming | Fill empty tubing before starting the measured dispensing cycle. |
 | Reduce wasted liquid | Reservoir fill markings | Let the user easily see approximately how much liquid is available. |
 
-## Step Three
+## Organizing Ideas
 
 Add your context and tables
 
-## Step Four
+## Initial Design Concepts
 
 Add your different product concepts stuff here
 
-## Step Six (video link)
-Embedded a YouTube video that covers the 
+## Design Process Documentation 
+
+## Image Test
+
+![Picture of Troy's Concept](https://raw.githubusercontent.com/EGR304-2026-F-201/EGR304-2026-F-201.github.io/refs/heads/main/image/Nikita_Design_1.png)
