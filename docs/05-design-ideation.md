@@ -123,6 +123,8 @@ Add your different product concepts stuff here
 
 ## Design Process Documentation 
 
-## Image Test
+The team performed well when it came to coming up with product ideas. Nikita, Troy, and Clay came up with ideas for the features of our product. Not all these ideas for features had feasibility in mind but still gave the group later insight into what we might want to add later. This whole step was coordinated through in-person discussion and SMS messaging. Cole went through the list of 113 ideas and picked out 38 qualities that could work in a product the group could make in a markdown file. The whole group then got together over Discord to discuss how these qualities could be sorted. After some discussion, the group decided on 3 categories: electrical, user interaction, and mechanical. The group then went through the list Cole made and discussed each item whether it belonged in a specific category. Cole made separate markdown files for each category. After the sorting was finished, the group discussed what they would do for the 3 product models. It came to the agreement that Clay would make a cardboard model, and Cole would make the other two models based on the ideas and sketches of Nikita and Troy using Solidworks. Cole made the models once Nikita and Troy sent over their ideas and sketches over Discord. Cole then sent screenshots of the models he created over Discord for Nikita and Troy to annotate. Clay finished the cardboard model and took pictures of varying sides of the model. Each picture was annotated with the novel features he picked out of the ideated set. For this assignment each group member contributed to the best of their abilities and illustrated the importance of forming a solid foundation for developing a product. 
 
-![Picture of Troy's Concept](https://raw.githubusercontent.com/EGR304-2026-F-201/EGR304-2026-F-201.github.io/refs/heads/main/image/Nikita_Design_1.png)
+
+
+
