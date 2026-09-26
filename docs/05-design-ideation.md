@@ -118,8 +118,15 @@ The following ideas explore different ways Fill-A-Bot could measure and dispense
 Add your context and tables
 
 ## Initial Design Concepts
+Clays Cardboard Design
+<img width="1050" height="871" alt="Untitled drawing" src="https://github.com/user-attachments/assets/a3ee1fee-3090-45a4-a1c5-213575525af6" />
 
-Add your different product concepts stuff here
+
+
+
+
+
+
 
 ## Design Process Documentation 
 
