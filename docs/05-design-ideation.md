@@ -129,7 +129,13 @@ The design also uses removable sections to make the system easier to adjust and 
 
 ![Troy's Adjustable Modular Dispenser](../image/Troy_Design_Annotated.png)
 
+### Nikita's Concept - Sliding Container Platform
 
+This concept uses an open front dispensing area with a sliding container platform beneath the nozzle. The platform rides on two recessed rails in the base, allowing the user to pull it forward to place a container and then slide it back until it reaches a stop directly beneath the dispensing nozzle.
+
+A shallow circular recess in the platform helps keep the container centered during dispensing, while a front handle makes the platform easier to pull out. The open-sided dispensing area also provides additional clearance for containers of different widths.
+
+![Nikita's Sliding Container Platform Concept](../image/Nikita_Design_Annotated.png)
 
 
 
