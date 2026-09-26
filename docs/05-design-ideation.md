@@ -145,7 +145,25 @@ The user interaction group focused on how the user controls the dispenser and re
 
 ### Ranking and Refinement
 
-After organizing the features into categories, the team discussed which ideas would be most useful and realistic for the Fill-A-Bot prototype. Features were considered based on how well they supported the main goals of accurate dispensing, safe operation, ease of use, container compatibility, and maintainability. The selected features were then used as a starting point for developing the three separate product concepts shown below.
+After organizing the selected features into Electrical, Mechanical Workings, and User Interaction, the team compared the ideas based on their importance to the main goals of Fill-A-Bot, feasibility for the semester prototype, safety, ease of use, and ease of maintenance. Features that directly supported accurate dispensing, liquid handling, user control, and safe operation were given the highest priority.
+
+| Category | Top Features | Reason for Ranking |
+| --- | --- | --- |
+| Electrical | Inline flow sensor | Provides direct feedback about the amount of liquid moving through the system. |
+| Electrical | Leak sensor | Helps protect the electronics and user by detecting unwanted liquid. |
+| Electrical | Power switch | Provides a simple way to control power to the device. |
+| Mechanical Workings | Timed, calibrated pump | Provides a practical method for controlling the amount of liquid dispensed. |
+| Mechanical Workings | Removable reservoir | Makes the system easier to refill, clean, and maintain. |
+| Mechanical Workings | Accessible nozzle | Makes cleaning easier and allows the dispensing area to remain accessible. |
+| Mechanical Workings | Sliding container platform | Helps position different containers beneath the dispensing nozzle. |
+| Mechanical Workings | Separate wet/dry compartments | Helps keep liquid away from sensitive electronics. |
+| User Interaction | Large Start button | Gives the user a clear and easy way to begin dispensing. |
+| User Interaction | Distinct Stop button | Gives the user an obvious way to stop an active dispensing cycle. |
+| User Interaction | Progress display and buzzer | Provides feedback about dispensing status and completion. |
+| User Interaction | Unit selection controls | Allows the user to select the measurement units used by the dispenser. |
+| User Interaction | Sensor error message | Clearly informs the user when the system detects a measurement problem. |
+
+The highest-ranked features were then used as a foundation for the three product concepts. The concepts did not need to use the same combination of features. Instead, each concept explored a different way of combining the selected electrical, mechanical, and user-interaction ideas into a complete Fill-A-Bot design.
 
 ## Initial Design Concepts
 
