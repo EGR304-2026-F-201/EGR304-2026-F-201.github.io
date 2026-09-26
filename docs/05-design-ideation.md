@@ -121,7 +121,8 @@ After generating the initial list of ideas, the team reviewed the brainstormed f
 
 The following image shows the features selected from the initial brainstorm for further consideration.
 
-![Selected Features](../image/Ideation%20Notes/List_Of_Qualities.png)
+<img width="1202" height="950" alt="List_Of_Qualities" src="https://github.com/user-attachments/assets/a92d5d2b-4218-47ca-a48a-3349585b8608" />
+
 
 The team then discussed the selected features and organized them into three main categories: Electrical, Mechanical Workings, and User Interaction. Grouping the ideas made it easier to compare features that performed similar functions and determine which features could be combined into the three product concepts.
 
@@ -129,19 +130,22 @@ The team then discussed the selected features and organized them into three main
 
 The electrical group focused on sensing, electrical control, system protection, and status indication. Ideas in this category included an inline flow sensor, leak sensor, watchdog timer, power switch, and power indication light.
 
-![Electrical Ideas](../image/Ideation%20Notes/Electrical.png)
+<img width="896" height="879" alt="Electrical" src="https://github.com/user-attachments/assets/19e28c0a-8176-478d-b098-0bac9f86df69" />
+
 
 ### Mechanical Workings
 
 The mechanical group focused on transferring and containing liquid, accommodating different containers, cleaning, maintenance, and the physical construction of the dispenser. Ideas included a timed calibrated pump, removable reservoir, replaceable pump tubing, quick-disconnect tubing, removable drip tray, accessible nozzle, sliding container platform, separate wet and dry compartments, pinch valve, and narrow nozzle tip.
 
-![Mechanical Ideas](../image/Ideation%20Notes/Mechanical%20Workings.png)
+<img width="1139" height="805" alt="Mechanical Workings" src="https://github.com/user-attachments/assets/5c72b12f-6dcd-43f7-b978-f8ea9f13262c" />
+
 
 ### User Interaction
 
 The user interaction group focused on how the user controls the dispenser and receives information from the system. Ideas included a rotary knob, numeric keypad, unit selection button, preset amount buttons, progress display and buzzer, unit menu, saved unit preference, Start and Stop buttons, warning messages, and error messages.
 
-![User Interaction Ideas](../image/Ideation%20Notes/User%20Interaction.png)
+<img width="873" height="885" alt="User Interaction" src="https://github.com/user-attachments/assets/6e803320-7f8e-4399-b65c-23366e0c4d8c" />
+
 
 ### Ranking and Refinement
 
