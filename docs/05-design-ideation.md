@@ -115,10 +115,44 @@ The following ideas explore different ways Fill-A-Bot could measure and dispense
 
 ## Organizing Ideas
 
-Add your context and tables
+After generating the initial list of ideas, the team reviewed the brainstormed features and selected the ideas that appeared most useful for developing Fill-A-Bot. This reduced the original brainstorm to a smaller set of features that could be discussed, compared, and organized further.
+
+### Selected Features
+
+The following image shows the features selected from the initial brainstorm for further consideration.
+
+![Selected Features](../image/Ideation%20Notes/List_Of_Qualities.png)
+
+The team then discussed the selected features and organized them into three main categories: Electrical, Mechanical Workings, and User Interaction. Grouping the ideas made it easier to compare features that performed similar functions and determine which features could be combined into the three product concepts.
+
+### Electrical
+
+The electrical group focused on sensing, electrical control, system protection, and status indication. Ideas in this category included an inline flow sensor, leak sensor, watchdog timer, power switch, and power indication light.
+
+![Electrical Ideas](../image/Ideation%20Notes/Electrical.png)
+
+### Mechanical Workings
+
+The mechanical group focused on transferring and containing liquid, accommodating different containers, cleaning, maintenance, and the physical construction of the dispenser. Ideas included a timed calibrated pump, removable reservoir, replaceable pump tubing, quick-disconnect tubing, removable drip tray, accessible nozzle, sliding container platform, separate wet and dry compartments, pinch valve, and narrow nozzle tip.
+
+![Mechanical Ideas](../image/Ideation%20Notes/Mechanical%20Workings.png)
+
+### User Interaction
+
+The user interaction group focused on how the user controls the dispenser and receives information from the system. Ideas included a rotary knob, numeric keypad, unit selection button, preset amount buttons, progress display and buzzer, unit menu, saved unit preference, Start and Stop buttons, warning messages, and error messages.
+
+![User Interaction Ideas](../image/Ideation%20Notes/User%20Interaction.png)
+
+### Ranking and Refinement
+
+After organizing the features into categories, the team discussed which ideas would be most useful and realistic for the Fill-A-Bot prototype. Features were considered based on how well they supported the main goals of accurate dispensing, safe operation, ease of use, container compatibility, and maintainability. The selected features were then used as a starting point for developing the three separate product concepts shown below.
 
 ## Initial Design Concepts
-Clays Cardboard Design
+
+### Clay's Concept - Removable Reservoir Dispenser
+This concept focuses on easy refilling, straightforward user controls, and protection of the internal components from water. A removable reservoir is located at the top of the dispenser and includes a removable cap so the user can refill the system without taking apart the main enclosure.
+
+The front of the device includes a large screen, keypad, and large power button to provide clear controls for entering and viewing dispensing information. The components are contained within a water-resistant enclosure to help separate the electronics from the liquid system. A nozzle located beneath the front section dispenses liquid into the container and can accept an extension to accommodate different dispensing positions.
 <img width="1050" height="871" alt="Untitled drawing" src="https://github.com/user-attachments/assets/a3ee1fee-3090-45a4-a1c5-213575525af6" />
 
 ### Troy's Concept - Adjustable Modular Dispenser
