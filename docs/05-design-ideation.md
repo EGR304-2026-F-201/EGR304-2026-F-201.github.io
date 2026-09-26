@@ -179,7 +179,8 @@ This concept uses a compact vertical design inspired by a single-serve coffee ma
 
 The design also uses removable sections to make the system easier to adjust and maintain. The removable base provides space for different container sizes and gives easier access to components for cleaning and maintenance. The overall design focuses on keeping the water-handling, mechanical, and electrical components organized within a compact enclosure.
 
-![Troy's Adjustable Modular Dispenser](../image/Troy_Design_Annotated.png)
+<img width="960" height="540" alt="Troy_Design_Annotated" src="https://github.com/user-attachments/assets/6cbb36af-6f79-42dd-b383-bb293efb7641" />
+
 
 ### Nikita's Concept - Sliding Container Platform
 
@@ -187,8 +188,7 @@ This concept uses an open front dispensing area with a sliding container platfor
 
 A shallow circular recess in the platform helps keep the container centered during dispensing, while a front handle makes the platform easier to pull out. The open-sided dispensing area also provides additional clearance for containers of different widths.
 
-![Nikita's Sliding Container Platform Concept](../image/Nikita_Design_Annotated.png)
-
+<img width="960" height="540" alt="Nikita_Design_Annotated" src="https://github.com/user-attachments/assets/79808ea7-dd3c-4eff-acb2-a733eca8773b" />
 
 
 
