@@ -121,7 +121,13 @@ Add your context and tables
 Clays Cardboard Design
 <img width="1050" height="871" alt="Untitled drawing" src="https://github.com/user-attachments/assets/a3ee1fee-3090-45a4-a1c5-213575525af6" />
 
+### Troy's Concept - Adjustable Modular Dispenser
 
+This concept uses a compact vertical design inspired by a single-serve coffee machine. The main body contains the water reservoir, pump, and electronics. Water is pumped from the internal reservoir through a nozzle positioned above the container. A water-level sensor monitors the remaining water supply, while a front display and physical controls allow the user to operate the dispenser and view system information.
+
+The design also uses removable sections to make the system easier to adjust and maintain. The removable base provides space for different container sizes and gives easier access to components for cleaning and maintenance. The overall design focuses on keeping the water-handling, mechanical, and electrical components organized within a compact enclosure.
+
+![Troy's Adjustable Modular Dispenser](../image/Troy_Design_Annotated.png)
 
 
 
