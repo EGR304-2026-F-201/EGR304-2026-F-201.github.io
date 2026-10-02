@@ -544,72 +544,45 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#research-question" class="md-nav__link">
+  <a href="#system-architecture" class="md-nav__link">
     <span class="md-ellipsis">
-      Research Question
+      System Architecture
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#images" class="md-nav__link">
+  <a href="#team-block-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Images
+      Team Block Diagram
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#results" class="md-nav__link">
+  <a href="#communication" class="md-nav__link">
     <span class="md-ellipsis">
-      Results
+      Communication
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#conclusions-and-future-work" class="md-nav__link">
+  <a href="#process-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Conclusions and Future Work
+      Process Diagram
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#external-links" class="md-nav__link">
+  <a href="#message-structure" class="md-nav__link">
     <span class="md-ellipsis">
-      External Links
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#results_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Results
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#conclusions-and-future-work_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Conclusions and Future Work
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#external-links_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      External Links
+      Message Structure
     </span>
   </a>
   
@@ -742,72 +715,45 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#research-question" class="md-nav__link">
+  <a href="#system-architecture" class="md-nav__link">
     <span class="md-ellipsis">
-      Research Question
+      System Architecture
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#images" class="md-nav__link">
+  <a href="#team-block-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Images
+      Team Block Diagram
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#results" class="md-nav__link">
+  <a href="#communication" class="md-nav__link">
     <span class="md-ellipsis">
-      Results
+      Communication
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#conclusions-and-future-work" class="md-nav__link">
+  <a href="#process-diagram" class="md-nav__link">
     <span class="md-ellipsis">
-      Conclusions and Future Work
+      Process Diagram
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#external-links" class="md-nav__link">
+  <a href="#message-structure" class="md-nav__link">
     <span class="md-ellipsis">
-      External Links
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#results_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Results
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#conclusions-and-future-work_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Conclusions and Future Work
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#external-links_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      External Links
+      Message Structure
     </span>
   </a>
   
@@ -848,43 +794,73 @@
   <h1>Team Block Diagram</h1>
 
 <h2 id="introduction">Introduction</h2>
-<p><strong>Bold Text</strong>
-<em>Italic Text</em>
-<strong><em>Bold and Italic Text</em></strong></p>
-<h2 id="research-question">Research Question</h2>
-<ul>
-<li>Bullet Point 1</li>
-<li>Bullet Point 2</li>
-<li>Bullet Point 3</li>
-</ul>
-<h2 id="images">Images</h2>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://idealab.asu.edu/assets/images/research/jumper1.png" data-desc-position="bottom"><img alt="image caption" src="https://idealab.asu.edu/assets/images/research/jumper1.png"></a><br>
-<strong>Figure 2:</strong> Here is a picture of an image linked on the internet</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image/imageGoal.JPG" data-desc-position="bottom"><img alt="dead bug circuit" src="../image/imageGoal.JPG" style="width:350px;"></a><br>
-<strong>Figure 2:</strong> Here is a picture from the image folder on my local site, with css formatting to make it smaller</p>
-<!-- 
-![showcase](../image/innovation_showcase_Sp-2025.jpg)  
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math. -->
+<p>Fill-A-Bot is an automated liquid dispensing system designed to measure and dispense a selected amount of liquid. The system is divided into multiple subsystems responsible for user control, pump operation, flow sensing, and liquid amount sensing. Each subsystem uses a PIC18F57Q43 Curiosity Nano and communicates with the main controller through the team's 8-pin ribbon cable connection. The team block diagram documents how these subsystems are connected and how information is transferred between them using I2C communication.</p>
+<h2 id="system-architecture">System Architecture</h2>
+<p>Fill-A-Bot uses a hub-and-spoke architecture consisting of one main controller and three slave subsystems. The main controller serves as the central communication point for the Pump Control, Flow Sensing, and Liquid Amount Sensing subsystems.</p>
+<p>The microcontrollers communicate using I2C. The team uses 8-pin ribbon cable connectors between boards, with Pin 1 assigned to SDA, Pin 2 assigned to SCL, and Pin 8 reserved for GND.</p>
+<h2 id="team-block-diagram">Team Block Diagram</h2>
+<p>The team block diagram below shows the electrical architecture of the Fill-A-Bot system, including the main controller and the Pump Control, Flow Sensing, and Liquid Amount Sensing subsystems.</p>
+<!-- The completed team block diagram will be inserted here after all subsystem blocks are finalized. -->
 
-<h2 id="results">Results</h2>
-<ol>
-<li>Numbered Point 1</li>
-<li>Numbered Point 2</li>
-<li>Numbered Point 3</li>
-</ol>
-<h2 id="conclusions-and-future-work">Conclusions and Future Work</h2>
-<h2 id="external-links">External Links</h2>
-<p><a href="https://idealab.asu.edu">example link to idealab</a></p>
-<h2 id="results_1">Results</h2>
-<ol>
-<li>Numbered Point 1</li>
-<li>Numbered Point 2</li>
-<li>Numbered Point 3</li>
-</ol>
-<h2 id="conclusions-and-future-work_1">Conclusions and Future Work</h2>
-<h2 id="external-links_1">External Links</h2>
-<p><a href="https://idealab.asu.edu">example link to idealab</a></p>
+<h2 id="communication">Communication</h2>
+<p>The Fill-A-Bot subsystems communicate using I2C. The team uses 8-pin ribbon cable connectors to connect the main controller to the slave subsystems.</p>
+<p>The current ribbon cable pin assignments are:</p>
+<table>
+<thead>
+<tr>
+<th>Pin</th>
+<th>Function</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>SDA</td>
+</tr>
+<tr>
+<td>2</td>
+<td>SCL</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Reserved / Unused</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Reserved / Unused</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Reserved / Unused</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Reserved / Unused</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Reserved / Unused</td>
+</tr>
+<tr>
+<td>8</td>
+<td>GND</td>
+</tr>
+</tbody>
+</table>
+<p>SDA is used for bidirectional data communication between the main controller and slave controllers. SCL is the clock signal generated by the main controller. Each slave controller will use a unique I2C address.</p>
+<h2 id="process-diagram">Process Diagram</h2>
+<p>The process diagram will be added as the team finalizes the operating sequence of the Fill-A-Bot system.</p>
+<h2 id="message-structure">Message Structure</h2>
+<p>The I2C message structure will be added after the team finalizes the commands and data exchanged between the main controller and each slave subsystem.</p>
 <h2 id="references">References</h2>
+<ol>
+<li>
+<p>Microchip Technology Inc., <em>PIC18F57Q43 Curiosity Nano Hardware User Guide</em>, DS40002186B.</p>
+</li>
+<li>
+<p>Texas Instruments, <em>A Basic Guide to I2C</em>.</p>
+</li>
+</ol>
 
 
 
