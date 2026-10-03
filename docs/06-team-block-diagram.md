@@ -29,7 +29,7 @@ The current ribbon cable pin assignments are:
 | 1 | SDA |
 | 2 | SCL |
 | 3 | Reserved / Unused |
-| 4 | Reserved / Unused |
+| 4 | +5v |
 | 5 | Reserved / Unused |
 | 6 | Reserved / Unused |
 | 7 | Reserved / Unused |
@@ -39,7 +39,9 @@ SDA is used for bidirectional data communication between the main controller and
 
 ## Process Diagram
 
-The process diagram will be added as the team finalizes the operating sequence of the Fill-A-Bot system.
+![Process Diagram](https://raw.githubusercontent.com/EGR304-2026-F-201/EGR304-2026-F-201.github.io/refs/heads/main/image/Block%20Diagram.drawio(2).png)
+
+
 
 ## Message Structure
 
