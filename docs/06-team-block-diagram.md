@@ -52,3 +52,11 @@ The I2C message structure will be added after the team finalizes the commands an
 1. Microchip Technology Inc., *PIC18F57Q43 Curiosity Nano Hardware User Guide*, DS40002186B.[Link](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf)
 
 2. Texas Instruments, *A Basic Guide to I2C*.[Link](https://www.ti.com/lit/an/sbaa565/sbaa565.pdf?ts=1790857144984&ref_url=https%253A%252F%252Fwww.google.com%252F)
+
+3. Adafruit Industries, *Adafruit 0.56" 4-Digit 7-Segment Display w/I2C Backpack - Yellow*, Product ID 879.[Link](https://www.adafruit.com/product/879)
+
+4. Same Sky (formerly CUI Devices), *PJ-102AH DC Power Jack*, Datasheet.[Link](https://www.sameskydevices.com/product/resource/pj-102ah.pdf)
+
+5. RECOM Power, *R-78E-1.0 DC/DC Converter, 1.0 A, SIP3*, Datasheet.[Link](https://recom-power.com/pdf/Innoline/R-78E-1.0.pdf)
+
+6. Microchip Technology Inc., *MCP6001/1R/1U/2/4 1 MHz, Low-Power Op Amp*, DS20001733L.[Link](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP6001-1R-1U-2-4-1-MHz-Low-Power-Op-Amp-DS20001733L.pdf)
