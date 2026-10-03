@@ -41,7 +41,7 @@ SDA is used for bidirectional data communication between the main controller and
 
 ![Process Diagram](https://raw.githubusercontent.com/EGR304-2026-F-201/EGR304-2026-F-201.github.io/refs/heads/main/image/Block%20Diagram.drawio(2).png)
 
-
+[Link To This Diagram File](https://github.com/EGR304-2026-F-201/EGR304-2026-F-201.github.io/blob/main/extraStudd/Block%20Diagram(1).drawio)
 
 ## Message Structure
 
@@ -49,6 +49,6 @@ The I2C message structure will be added after the team finalizes the commands an
 
 ## References
 
-1. Microchip Technology Inc., *PIC18F57Q43 Curiosity Nano Hardware User Guide*, DS40002186B.
+1. Microchip Technology Inc., *PIC18F57Q43 Curiosity Nano Hardware User Guide*, DS40002186B.[Link](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf)
 
-2. Texas Instruments, *A Basic Guide to I2C*.
+2. Texas Instruments, *A Basic Guide to I2C*.[Link](https://www.ti.com/lit/an/sbaa565/sbaa565.pdf?ts=1790857144984&ref_url=https%253A%252F%252Fwww.google.com%252F)
