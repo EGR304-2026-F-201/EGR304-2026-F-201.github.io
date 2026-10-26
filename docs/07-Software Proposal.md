@@ -1,55 +1,36 @@
 ---
-title: Software Proposal
+title: Fill-A-Bot Software Proposal
 ---
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+This Fill-A-Bot prototype will make use of rudimentary two-wire four-state I/O to transfer data between the subsystems. Each subsystem will continuously monitor its respective inputs and only stop monitoring the inputs when it meets a set criteria and then outputs the necessary state. Currently, we have yet to write this program, but have a proposal in the form of a Flow Chart.
 
 ## Research Question
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+* Will our design have issues in regards to timing?
+* How simple can we make this program?
+* Will 4 states per I/O be enough to make this system work?
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
+![Program Flow Chart](docs/Appendix/FillABot_Function_Flow.drawio.png){style width:"350" height:"300;"}
+**Figure 1:** Our flow chart from which we will be basing our code.
 
-
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
 
 
 ## Results
 
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
+Yet to be determined!
 
 ## Conclusions and Future Work
 
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
+Yet to be determined!
 
 ## External Links
 
-[example link to idealab](https://idealab.asu.edu)
+Yet to be determined!
 
 
 ## References
