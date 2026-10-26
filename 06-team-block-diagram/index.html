@@ -562,6 +562,24 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#why-we-chose-this-structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why We Chose This Structure
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-it-meets-the-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      How It Meets the Requirements
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#communication" class="md-nav__link">
     <span class="md-ellipsis">
       Communication
@@ -571,9 +589,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#message-structure" class="md-nav__link">
+  <a href="#signal-codes" class="md-nav__link">
     <span class="md-ellipsis">
-      Message Structure
+      Signal Codes
     </span>
   </a>
   
@@ -724,6 +742,24 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#why-we-chose-this-structure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why We Chose This Structure
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-it-meets-the-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      How It Meets the Requirements
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#communication" class="md-nav__link">
     <span class="md-ellipsis">
       Communication
@@ -733,9 +769,9 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#message-structure" class="md-nav__link">
+  <a href="#signal-codes" class="md-nav__link">
     <span class="md-ellipsis">
-      Message Structure
+      Signal Codes
     </span>
   </a>
   
@@ -776,69 +812,173 @@
   <h1>Team Block Diagram</h1>
 
 <h2 id="introduction">Introduction</h2>
-<p>Fill-A-Bot is an automated liquid dispensing system designed to measure and dispense a selected amount of liquid. The system is divided into multiple subsystems responsible for user control, pump operation, flow sensing, and liquid amount sensing. Each subsystem uses a PIC18F57Q43 Curiosity Nano and communicates with the main controller through the team's 8-pin ribbon cable connection. The team block diagram documents how these subsystems are connected and how information is transferred between them using UART.</p>
+<p>Fill-A-Bot is an automated liquid dispensing system designed to measure and dispense a selected amount of liquid. The system is divided into multiple subsystems responsible for user control, pump operation, flow sensing, and liquid amount sensing. Each subsystem uses a PIC18F57Q43 Curiosity Nano and connects to the main controller through the team's 8-pin ribbon cable. The team block diagram documents how these subsystems are connected and what signals pass between them.</p>
 <h2 id="system-architecture">System Architecture</h2>
-<p>Fill-A-Bot uses a hub-and-spoke architecture consisting of one main controller and three subsystems. The main controller serves as the central communication point for the Pump Control, Flow Sensing, and Liquid Amount Sensing subsystems.</p>
-<p>The main controller has a separate UART for each teammate: UART1 to Cole (RC6 TX, RC7 RX), UART2 to Clay (RD3 TX, RD4 RX), and UART3 to Troy (RF6 TX, RF5 RX). Each board has its own wall adapter and 5V regulator, so no power is shared over the ribbon cable.</p>
+<p>Fill-A-Bot uses a hub-and-spoke architecture consisting of one main controller and three subsystems. The main controller is the central point for the Pump Control, Flow Sensing, and Liquid Amount Sensing subsystems, and each subsystem has its own ribbon cable to the main controller.</p>
+<p>The boards don't use UART, I2C, or SPI. Each signal between two boards is 2 plain GPIO wires driven high or low, so it has 4 states (00, 01, 10, 11). This matches the I/O table in our <a href="../07-Software%20Proposal/">Software Proposal</a> flow chart:</p>
+<table>
+<thead>
+<tr>
+<th>Board</th>
+<th>Inputs (4-state)</th>
+<th>Outputs (4-state)</th>
+<th>Signals</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Main Control (Nikita)</td>
+<td>2</td>
+<td>2</td>
+<td>Out: pump command, weight command. In: weight status, flow status</td>
+</tr>
+<tr>
+<td>Pump Control (Clay)</td>
+<td>1</td>
+<td>0</td>
+<td>In: pump command</td>
+</tr>
+<tr>
+<td>Liquid Amount Sensing (Troy)</td>
+<td>1</td>
+<td>1</td>
+<td>In: weight command. Out: weight status</td>
+</tr>
+<tr>
+<td>Flow Sensing (Cole)</td>
+<td>0</td>
+<td>1</td>
+<td>Out: flow status</td>
+</tr>
+</tbody>
+</table>
+<p>Each board has its own wall adapter and 5V regulator, so no power is shared over the ribbon cable.</p>
 <h2 id="team-block-diagram">Team Block Diagram</h2>
 <p>The team block diagram below shows the electrical architecture of the Fill-A-Bot system, including the main controller and the Pump Control, Flow Sensing, and Liquid Amount Sensing subsystems. Items highlighted in yellow still need to be updated by that teammate.</p>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../image/team-block-diagram.png" data-desc-position="bottom"><img alt="Team block diagram" src="../image/team-block-diagram.png" width="100%"></a></p>
 <p>Figure 1: Team block diagram (click to enlarge)</p>
 <p>Source files: <a href="../image/team-block-diagram-source.zip">team-block-diagram-source.zip</a> (draw.io file and PNG)</p>
+<h2 id="why-we-chose-this-structure">Why We Chose This Structure</h2>
+<p>We first planned I2C and then UART between the boards. On Oct 22 we switched to plain 2-wire signals (the professor suggested it). Every signal we need fits in 4 states, so we don't need a serial protocol, baud rates, or addresses. Each line can be checked with an LED or a meter, which makes testing each board on its own much easier. The tradeoff is that the user can't type in any amount anymore, so we use 4 fill presets instead.</p>
+<h2 id="how-it-meets-the-requirements">How It Meets the Requirements</h2>
+<ul>
+<li><strong>Select the amount (2.1, 3.1, 4.1):</strong> The user picks 1 of 4 presets with the buttons on the main board. The main board sends the preset to the weight board as a 2-wire code.</li>
+<li><strong>Monitor and stop at the target (2.2, 2.3, 6.4):</strong> The weight board compares the scale reading to the preset target (the container weight is hard-coded for the demo) and reports "target reached". The main board then tells the pump board to stop.</li>
+<li><strong>Start and stop flow automatically (1.2):</strong> The main board turns the pump on and off with the pump command. The pump board only runs the pump while the command is 01.</li>
+<li><strong>No unintended dispensing (2.6):</strong> 00 is the safe default on every signal and every input has a pull-down, so an unplugged cable reads 00 and the pump stays off. If the flow board reports no flow while pumping, the main board stops the pump and flashes the Fault LED.</li>
+<li><strong>Stop at any time (6.1, design 1.5 and 3.4):</strong> The STOP button on the main board sets the pump command to stop from any step.</li>
+<li><strong>Feedback and status (2.1 display, 3.3, 3.4):</strong> The main board's LCD shows the preset and the status (Ready, Filling, Finished), and LEDs show Dispensing, Done, and Fault.</li>
+<li><strong>Repeat cycles (2.4):</strong> After a fill is done, the main board goes back to step 1 without a restart.</li>
+<li><strong>Zeroing (2.5, 4.3):</strong> The weight board has its own tare button.</li>
+</ul>
 <h2 id="communication">Communication</h2>
-<p>The Fill-A-Bot subsystems communicate using UART. The team uses 8-pin ribbon cables with 2x4 IDC connectors between the main controller and each subsystem. The pin use follows the class standard: pins 1-5 are digital, pins 6-7 are analog, and pin 8 is ground.</p>
+<p>The team uses 8-pin ribbon cables with 2x4 IDC connectors between the main controller and each subsystem. The cable is straight through (pin 1 to pin 1). The pin use follows the class standard: pins 1-5 are digital, pins 6-7 are analog, and pin 8 is ground. On every cable, pins 1-2 are the main controller's outputs and pins 3-4 are the subsystem's outputs back to the main controller.</p>
 <table>
 <thead>
 <tr>
 <th>Pin</th>
-<th>Function</th>
+<th>Cole (Flow)</th>
+<th>Clay (Pump)</th>
+<th>Troy (Liquid Amount)</th>
+<th>Main controller pin</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>1</td>
-<td>Main controller TX → subsystem RX</td>
+<td>Not used</td>
+<td>Pump command C1 (main to Clay)</td>
+<td>Weight command C1 (main to Troy)</td>
+<td>RD4 (Clay), RF6 (Troy)</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Subsystem TX → main controller RX</td>
+<td>Not used</td>
+<td>Pump command C0 (main to Clay)</td>
+<td>Weight command C0 (main to Troy)</td>
+<td>RD3 (Clay), RF5 (Troy)</td>
 </tr>
 <tr>
 <td>3</td>
+<td>Flow status S1 (Cole to main)</td>
 <td>Not used</td>
+<td>Weight status S1 (Troy to main)</td>
+<td>RC7 (Cole), RE1 (Troy)</td>
 </tr>
 <tr>
 <td>4</td>
+<td>Flow status S0 (Cole to main)</td>
 <td>Not used</td>
+<td>Weight status S0 (Troy to main)</td>
+<td>RC6 (Cole), RE0 (Troy)</td>
 </tr>
 <tr>
-<td>5</td>
+<td>5-7</td>
 <td>Not used</td>
-</tr>
-<tr>
-<td>6</td>
 <td>Not used</td>
-</tr>
-<tr>
-<td>7</td>
 <td>Not used</td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
 <td>GND</td>
+<td>GND</td>
+<td>GND</td>
+<td>GND</td>
 </tr>
 </tbody>
 </table>
-<p>There's no power pin on the ribbon. Each subsystem has its own UART line to the main controller, so no addresses are needed.</p>
-<h2 id="message-structure">Message Structure</h2>
-<p>The UART message structure will be added after the team finalizes the commands and data exchanged between the main controller and each subsystem.</p>
+<p>All boards use 5V logic. Every input gets a 100k pull-down and every output starts low, so each signal starts at 00.</p>
+<h2 id="signal-codes">Signal Codes</h2>
+<table>
+<thead>
+<tr>
+<th>Signal</th>
+<th>00</th>
+<th>01</th>
+<th>10</th>
+<th>11</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pump command (main to Clay)</td>
+<td>Stop</td>
+<td>Run</td>
+<td>Not used (stop)</td>
+<td>Not used (stop)</td>
+</tr>
+<tr>
+<td>Weight command (main to Troy)</td>
+<td>Preset 1</td>
+<td>Preset 2</td>
+<td>Preset 3</td>
+<td>Preset 4</td>
+</tr>
+<tr>
+<td>Weight status (Troy to main)</td>
+<td>Not ready</td>
+<td>Below target</td>
+<td>Target reached</td>
+<td>Error</td>
+</tr>
+<tr>
+<td>Flow status (Cole to main)</td>
+<td>No flow</td>
+<td>Flowing</td>
+<td>Not used (no flow)</td>
+<td>Sensor fault</td>
+</tr>
+</tbody>
+</table>
+<p>The team is still picking the four preset amounts.</p>
 <h2 id="references">References</h2>
 <ol>
 <li>
 <p>Microchip Technology Inc., <em>PIC18F57Q43 Curiosity Nano Hardware User Guide</em>, DS40002186B. <a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/UserGuides/PIC18F57Q43-Curiosity-Nano-HW-UserGuide-DS40002186B.pdf">Link</a></p>
 </li>
 <li>
-<p>Microchip Technology Inc., <em>PIC18F27/47/57Q43 Data Sheet</em> (UART and PPS chapters). <a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47-57Q43-Microcontroller-Data-Sheet-XLP-DS40002147.pdf">Link</a></p>
+<p>Microchip Technology Inc., <em>PIC18F27/47/57Q43 Data Sheet</em> (I/O ports chapter). <a href="https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47-57Q43-Microcontroller-Data-Sheet-XLP-DS40002147.pdf">Link</a></p>
 </li>
 <li>
 <p>Same Sky (formerly CUI Devices), <em>PJ-102AH DC Power Jack</em>, Datasheet. <a href="https://www.sameskydevices.com/product/resource/pj-102ah.pdf">Link</a></p>
