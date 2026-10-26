@@ -20,6 +20,10 @@ This Fill-A-Bot prototype will make use of rudimentary two-wire four-state I/O t
 
 
 
+## Rationale
+
+The reason we went with this proposed system flow is because we were no longer using a serial bus protocol. We were confused by some of the instructions in the assignments that specified the use of UART. However after realizing we could use logic states put on the pins. After analyzing the various cases of use for this device, we elected that we could use two wires per "port" giving us a total of four states to work with. When divising the flow chart, we kept these features in mind. Since we were working with a four state communication line, we had to change our previous idea of the user entering an integer value and unit of the amount they wanted to merely 4 preset options. This would allow the scale board to know the amount the user selected while using such a primitive method for data transfer. 
+
 ## Results
 
 Yet to be determined!
