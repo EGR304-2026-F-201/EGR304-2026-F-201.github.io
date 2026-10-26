@@ -22,11 +22,12 @@ Welcome to Team 201's project page. We are engineering students at Arizona State
 
 Use the navigation menu to explore our work:
 
-* **Team Organization** — Our team charter, mission statement, and methods of collaboration.
-* **User Needs and Benchmarking** — Our market research and analysis of customer needs.
-* **Product Requirements** — The technical specifications and design requirements for our system.
-* **Design Ideation** — Our concept generation, evaluation, and prototyping process.
-
+* [**Team Organization**](https://egr304-2026-f-201.github.io/02-Team-Organization/) — Our team charter, mission statement, and methods of collaboration.
+* [**User Needs and Benchmarking**](https://egr304-2026-f-201.github.io/03-User-Needs-and%20Benchmarking/) — Our market research and analysis of customer needs.
+* [**Product Requirements**](https://egr304-2026-f-201.github.io/04-Product-Requirements/) — The technical specifications and design requirements for our system.
+* [**Design Ideation**](https://egr304-2026-f-201.github.io/05-design-ideation/) — Our concept generation, evaluation, and prototyping process.
+* [**Team Block Diagram**](https://egr304-2026-f-201.github.io/06-team-block-diagram/) — A high-level diagram of how our system should work.
+* [**Software Proposal**](https://egr304-2026-f-201.github.io/07-Software%20Proposal/) — The approach that we are taking to making Fill-A-Bot's software function.
 
 | **Team Member** | **Individual Datasheet** |
 | --- | --- |
