@@ -15,7 +15,7 @@ This Fill-A-Bot prototype will make use of rudimentary two-wire four-state I/O t
 ## Images
 
 
-![Program Flow Chart](docs/Appendix/FillABot_Function_Flow.drawio.png){style width:"350" height:"300;"}
+![Program Flow Chart](https://raw.githubusercontent.com/EGR304-2026-F-201/EGR304-2026-F-201.github.io/refs/heads/main/docs/Appendix/FillABot_Function_Flow.drawio.png){style width:"350" height:"300;"}
 **Figure 1:** Our flow chart from which we will be basing our code.
 
 
