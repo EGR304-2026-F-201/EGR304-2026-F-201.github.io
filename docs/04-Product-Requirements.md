@@ -7,6 +7,10 @@ The objective of Fill-A-bot is to develop a reliable liquid dispensing system th
 Fill-A-Bot should allow a user to request a desired amount of liquid, dispense that amount within an acceptable level of accuracy, and stop the dispensing process once the target has been reached. The system should be simple enough to operate with minimal instruction and reliable enough to complete repeated dispensing cycles without frequent resets or re-calibration. The final product should also be practical for use on a laboratory bench or similar work area. It should be compact, easy to maintain, and designed so that liquid is kept away from sensitive electronics during normal operation. The product should use components and manufacturing methods that are realistic for the team to obtain, assemble, test, and maintain within the semester. Success for Fill-A-Bot will be based on its ability to repeatedly dispense selected quantities of liquid, provide clear feedback to the user, minimize spills and leaks, and operate safely and consistently through normal use.
 
 
+## Target Customer and Use
+
+For this prototype, Fill-A-Bot is meant for home kitchen use with plain drinking water only (tap or filtered, room temperature). The projected customer is someone at home who wants a set amount of water without using a measuring cup, like for cooking, coffee, or filling a water bottle. We picked kitchen use over lab use because a lab version would have to follow lab rules for cleaning, sterilization, and chemical safety, which adds a lot of restrictions we can't meet this semester. Fill-A-Bot is not sterile and isn't meant for chemicals, medicine, or other liquids. The parts that touch the water should be food-safe and easy to rinse, and the electronics stay separated from the water. A lab version could be a later step.
+
 ## Stakeholders
 
 * **Target group** Professors, students, technicians, and other users who need to dispense measured amounts of liquid quickly and consistently. Their main needs are accuracy, repeatability, ease of use, and less manual measuring.
