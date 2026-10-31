@@ -19,4 +19,4 @@ Detailed team goals and planning can be reviewed in the [Appendix: Team Organiza
 
 The team developed the following mission based on the intended users and purpose of our product:
 
- > Our mission is to help engineering students and technicians dispense repeatable quantities of water with less manual measuring and fewer spills, while clearly communicating how much water has been delivered.
+ > Our mission is to help cooks, elderly, or the effieniency-minded homebody produce repeatable quantities of water with less manual measuring and fewer spills; all while clearly communicating how much water has been delivered.
