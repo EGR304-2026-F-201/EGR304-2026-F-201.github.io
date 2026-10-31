@@ -855,9 +855,9 @@
 <p>Each board has its own wall adapter and 5V regulator, so no power is shared over the ribbon cable.</p>
 <h2 id="team-block-diagram">Team Block Diagram</h2>
 <p>The team block diagram below shows the electrical architecture of the Fill-A-Bot system, including the main controller and the Pump Control, Flow Sensing, and Liquid Amount Sensing subsystems. Items highlighted in yellow still need to be updated by that teammate.</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../Appendix/Block_10_26.drawio.png" data-desc-position="bottom"><img alt="Team block diagram" src="../Appendix/Block_10_26.drawio.png" width="100%"></a></p>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="Block_Diagram_Final.drawio.png" data-desc-position="bottom"><img alt="Team block diagram" src="Block_Diagram_Final.drawio.png" width="100%"></a></p>
 <p>Figure 1: Team block diagram (click to enlarge)</p>
-<p>Source files: <a href="../image/BlockDiagram2.zip">team-block-diagram-source.zip</a> <a href="../image/BlockDiagram2.drawio">draw.io file</a></p>
+<p>Source files: <a href="Block_Diagram_Final.zip">zip file</a> </p>
 <h2 id="why-we-chose-this-structure">Why We Chose This Structure</h2>
 <p>We first planned I2C and then UART between the boards. On Oct 22 we switched to plain 2-wire signals (the professor suggested it). Every signal we need fits in 4 states, so we don't need a serial protocol, baud rates, or addresses. Each line can be checked with an LED or a meter, which makes testing each board on its own much easier. The tradeoff is that the user can't type in any amount anymore, so we use 4 fill presets instead.</p>
 <h2 id="how-it-meets-the-requirements">How It Meets the Requirements</h2>
