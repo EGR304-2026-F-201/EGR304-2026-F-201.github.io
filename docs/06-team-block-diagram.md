@@ -25,7 +25,7 @@ Each board has its own wall adapter and 5V regulator, so no power is shared over
 
 The team block diagram below shows the electrical architecture of the Fill-A-Bot system, including the main controller and the Pump Control, Flow Sensing, and Liquid Amount Sensing subsystems. Items highlighted in yellow still need to be updated by that teammate.
 
-![Team block diagram](Block_Diagram_Final.drawio.png){ width="100%" }
+![Team block diagram](https://raw.githubusercontent.com/EGR304-2026-F-201/EGR304-2026-F-201.github.io/refs/heads/main/docs/image/Block_Diagram_Final.drawio.png){ width="100%" }
 
 Figure 1: Team block diagram (click to enlarge)
 
